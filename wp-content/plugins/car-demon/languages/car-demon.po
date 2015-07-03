@@ -1,0 +1,3594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Car Demon 1.1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-20 17:50-0600\n"
+"PO-Revision-Date: 2013-12-20 17:53-0600\n"
+"Last-Translator: Jay Chuck Mailen <theveryfirstperson@gmail.com>\n"
+"Language-Team: Car Demons <support@cardemons.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../car-demon-header.php:32
+msgid "Compare Vehicles"
+msgstr ""
+
+#: ../car-demon.php:164
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../car-demon.php:198
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../car-demon.php:200
+#, php-format
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../car-demon.php:202
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../car-demon.php:219
+#, php-format
+msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr ""
+
+#: ../car-demon.php:316
+msgid "sales"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:24
+msgid "You must fill out both fields before adding a new option group."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:25
+msgid "Option Group Updated"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:48
+msgid "Car Demon Contact Options"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:82
+msgid "Contact Information"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:83
+msgid "Facebook Fan Page"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:86
+msgid "New Sales Name"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:89
+msgid "New Sales Number"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:91
+msgid "New Mobile Number"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:94
+msgid "New Mobile Provider"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:98
+msgid "- blank disables SMS for new."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:100
+msgid "New Sales Email"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:103
+msgid "Used Sales Name"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:106
+msgid "Used Sales Number"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:109
+msgid "Used Mobile Number"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:112
+msgid "Used Mobile Provider"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:116
+msgid "- blank disables SMS for used."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:118
+msgid "Used Sales Email"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:127
+msgid "Default Description"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:130
+msgid "Service Name"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:133
+msgid "Service Number"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:136
+msgid "Service Email"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:139
+msgid "Parts Name"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:142
+msgid "Parts Number"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:145
+msgid "Parts Email"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:148
+msgid "Finance Name"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:151
+msgid "Finance Number"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:154
+msgid "Finance Email"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:157
+msgid "Link to Finance Form"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:160
+msgid "Pop Up Finance Form"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:178
+msgid "*Finance Disclaimer"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:181
+msgid "*Finance Description"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:184
+msgid "Trade Name"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:187
+msgid "Trade Number"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:190
+msgid "Trade Email"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:193
+msgid "Link to Trade Form"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:196
+msgid "Show Prices on New"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:204
+msgid "Show Prices on Used"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:212
+msgid "New Large Photo Url"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:215
+msgid "New Small Photo Url"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:218
+msgid "Used Large Photo Url"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:221
+msgid "Used Small Photo Url"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:226
+msgid "* The Default disclaimer and description are provided as examples ONLY and may or may not be legally suitable for your state. Please have a lawyer review your disclaimer and description before using."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:228
+msgid "Update Options"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:385
+msgid "Car Demon Settings"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:403
+msgid "Disable Finance Form if it isn't loaded with SSL"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:409
+msgid "Currency Symbol"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:411
+msgid "Currency Symbol After Price"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:413
+msgid "VinQuery.com Access Code"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:433
+msgid "VinQuery.com Report Type"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:435
+msgid "Extended"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:436
+msgid "Standard"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:437
+msgid "Basic"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:438
+msgid "Lite"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:440
+msgid "Blind Carbon Copy Forms to Admin?"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:443
+#: ../admin/car-demon-admin-settings.php:449
+#: ../admin/car-demon-admin-settings.php:455
+#: ../admin/car-demon-admin-settings.php:461
+#: ../admin/car-demon-admin-settings.php:467
+#: ../admin/car-demon-admin-settings.php:473
+#: ../admin/car-demon-admin-settings.php:479
+#: ../admin/car-demon-admin-settings.php:485
+#: ../admin/car-demon-admin-settings.php:491
+#: ../admin/car-demon-admin-settings.php:497
+#: ../admin/car-demon-admin-settings.php:503
+#: ../admin/car-demon-admin-settings.php:509
+#: ../admin/car-demon-admin-settings.php:515
+#: ../admin/car-demon-admin-settings.php:521
+#: ../admin/car-demon-admin-settings.php:527
+#: ../admin/car-demon-admin-settings.php:533
+#: ../admin/car-demon-admin-settings.php:541
+#: ../admin/car-demon-admin-settings.php:547
+#: ../admin/car-demon-admin-settings.php:555
+#: ../admin/car-demon-admin-settings.php:562
+#: ../admin/car-demon-columns.php:99
+#: ../car-demon-forms/forms/car-demon-finance-form.php:66
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:69
+msgid "Yes"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:444
+#: ../admin/car-demon-admin-settings.php:450
+#: ../admin/car-demon-admin-settings.php:456
+#: ../admin/car-demon-admin-settings.php:462
+#: ../admin/car-demon-admin-settings.php:468
+#: ../admin/car-demon-admin-settings.php:474
+#: ../admin/car-demon-admin-settings.php:480
+#: ../admin/car-demon-admin-settings.php:486
+#: ../admin/car-demon-admin-settings.php:492
+#: ../admin/car-demon-admin-settings.php:498
+#: ../admin/car-demon-admin-settings.php:504
+#: ../admin/car-demon-admin-settings.php:510
+#: ../admin/car-demon-admin-settings.php:516
+#: ../admin/car-demon-admin-settings.php:522
+#: ../admin/car-demon-admin-settings.php:528
+#: ../admin/car-demon-admin-settings.php:534
+#: ../admin/car-demon-admin-settings.php:542
+#: ../admin/car-demon-admin-settings.php:548
+#: ../admin/car-demon-admin-settings.php:556
+#: ../admin/car-demon-admin-settings.php:563
+#: ../admin/car-demon-columns.php:100
+#: ../car-demon-forms/forms/car-demon-finance-form.php:65
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:68
+msgid "No"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:446
+msgid "Show sold vehicles in search results?"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:452
+msgid "Include ADFxml with Leads?"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:458
+msgid "Use Form CSS?"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:464
+msgid "Use Vehicle CSS?"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:470
+msgid "Hide all Vehicle Option Tabs?"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:476
+msgid "Use About Tab on Vehicle Pages"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:482
+msgid "Use Compare Vehicle Option"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:488
+msgid "Load Next Inventory Page on Scroll"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:494
+msgid "Use Popup Images"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:500
+msgid "Show sorting options on vehicle listing pages?"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:506
+msgid "Use Drop down sorting?"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:512
+msgid "Sort By Price? - Sorting options must be set to yes to use this feature."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:518
+msgid "Sort By Mileage? - Sorting options must be set to yes to use this feature."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:524
+msgid "Use included theme files?"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:530
+msgid "Use Title field for Vehicle Titles? - If No then title will be \"Year Make Model\""
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:536
+msgid "Trim title"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:538
+msgid "Use Dynamic Ribbons?"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:544
+msgid "Validate Phone Numbers?"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:550
+msgid "Display before listings:"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:552
+msgid "Is Mobile Theme Installed?"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:559
+msgid "Use Default Mobile Header with Mobile Logo?"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:565
+msgid "Mobile Header Logo"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:569
+msgid "Upload Logo"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:570
+msgid "Enter a URL or upload an image for the Mobile Logo. 169x58 px"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:573
+msgid "Mobile Chat Code"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:576
+msgid "Update Car Demon"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:577
+msgid "Reset to Default"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:580
+msgid "Car Demon Pages"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:582
+msgid "Car Demon comes with support for adding several custom forms and pages. You can quickly and easily add these pages by clicking the buttons below or you can create your own pages and simply paste the shortcode you want to use into the content of the page."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:595
+msgid "Add Contact Us Page"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:600
+msgid "Add Service Appointment Page"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:605
+msgid "Add Service Quote Page"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:610
+msgid "Add Parts Quote Page"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:615
+msgid "Add Trade In Page"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:620
+msgid "Add Finanace Application Page"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:625
+msgid "Add Pre-Qualify Page"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:630
+msgid "Add Staff Page"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:634
+msgid "Shortcodes"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:692
+msgid "SETTINGS HAVE BEEN UPDATED"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:696
+msgid "SETTINGS HAVE BEEN RESET"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:699
+msgid "This is not a contract to purchase. It is an application for financing a possible automotive purchase."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:700
+msgid "You are not obligated to purchase"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:700
+msgid "a vehicle if you submit this form."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:702
+msgid "Your information is kept confidential and is used only to assist in obtaining financing for a potential vehicle purchase."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:703
+msgid "*By clicking this button you agree to the terms  posted above."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:709
+msgid ""
+"\n"
+"\t*TERMS AND DISCLOSURE \n"
+"\t\n"
+"\tThe following terms of agreement apply to all of our online applications;\n"
+"\t\n"
+"\twe, us, our and ours as used below refer to the dealer and to the Financial \n"
+"\t\n"
+"\tInstitutions selected to receive your application.\n"
+"\t\n"
+"\tYou authorize the dealer, as part of the credit underwriting process, to submit this \n"
+"\t\n"
+"\tapplication and any other application submitted in connection with the proposed transaction\n"
+"\t\n"
+"\tto the Financial Institutions disclosed to you by the dealer, for review. In addition, in \n"
+"\t\n"
+"\taccordance with the Fair Credit Reporting Act, you authorize that such Financial Institutions \n"
+"\t\n"
+"\tmay submit your applications for review to other Financial Institutions that may want to \n"
+"\t\n"
+"\tpurchase your contract.\n"
+"\t\n"
+"\t\n"
+"\tYou agree that we and any Financial Institutions to which your application is submitted may \n"
+"\t\n"
+"\tobtain a consumer credit report periodically from one or more consumer reporting agencies \n"
+"\t\n"
+"\t(credit bureaus) in connection with the proposed transaction and any update, renewal, \n"
+"\t\n"
+"\trefinancing, modification or extension of that transaction.\n"
+"\t\n"
+"\tYou agree that we may verify your employment, pay, assets and debts, and that anyone \n"
+"\t\n"
+"\treceiving a copy of this is authorized to provide us with such information.\n"
+"\t\n"
+"\tYou further authorize us to gather whatever credit and employment history we consider\n"
+"\t\n"
+"\tnecessary and appropriate in reviewing this application and any other applications \n"
+"\t\n"
+"\tsubmitted in connection with the proposed transaction.\n"
+"\t\n"
+"\tWe may keep this application and any other application submitted to us, and information \n"
+"\t\n"
+"\tabout you whether or not the application is approved. You certify that the information on \n"
+"\t\n"
+"\tthis application and in any other application submitted to us, is true and complete. You \n"
+"\t\n"
+"\tunderstand that false statements may subject you to criminal penalties.\n"
+"\t\n"
+"\tFEDERAL NOTICES\n"
+"\t\n"
+"\tIMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT\n"
+"\t\n"
+"\tTo help the government fight the funding of terrorism and money laundering activities, \n"
+"\t\n"
+"\tFederal law requires all financial institutions to obtain, verify, and record information that \n"
+"\t\n"
+"\tidentifies each person who opens an account. What this means for you: When you open an \n"
+"\t\n"
+"\taccount, we will ask for your name,address, date of birth, and other information that will  \n"
+"\t\n"
+"\tallow us to identify you. We may also ask to see your driver's license or other identifying \n"
+"\t\n"
+"\tdocuments.\n"
+"\t\n"
+"\tSTATE NOTICES\n"
+"\t\n"
+"\tArizona, California, Idaho, Louisiana, Nevada, New Mexico, Texas, Washington or  \n"
+"\t\n"
+"\tWisconsin Residents: If you, the applicant, are married and live in a community property \n"
+"\t\n"
+"\tstate, you should also provide the personal credit information on your spouse in the \n"
+"\t\n"
+"\tco-applicant section. Your spouse is not required to be a co-applicant for the credit \n"
+"\t\n"
+"\trequested unless he/she wishes to be a co-applicant.\n"
+"\t\n"
+"\tCalifornia Residents: An applicant, if married, may apply for a separate account.\n"
+"\t\n"
+"\tOhio Residents: Ohio laws against discrimination require that all creditors make credit \n"
+"\t\n"
+"\tequally available to all creditworthy customers and that credit reporting agencies maintain  \n"
+"\t\n"
+"\tseparate credit histories on each individual upon request. The Ohio Civil Rights  \n"
+"\t\n"
+"\tCommission administers compliance with this law.\n"
+"\t\n"
+"\tNew Hampshire Residents:If this is an application for balloon financing, you are entitled to \n"
+"\t\n"
+"\treceive, upon request, a written estimate of the monthly payment amount that would be  \n"
+"\t\n"
+"\trequired to refinance the balloon payment at the time such payment is due based on the\n"
+"\t\n"
+"\tcreditor's current refinancing programs.\n"
+"\t\n"
+"\tNew Hampshire Residents: In connection with your application for credit, we may request a \n"
+"\t\n"
+"\tconsumer report that contains information on your credit worthiness, credit standing,  \n"
+"\t\n"
+"\tpersonal characteristics and general reputation. If we grant you credit, we or our  \n"
+"\t\n"
+"\tservicer may order additional consumer reports in connection with any update, renewal  \n"
+"\t\n"
+"\tor extension of the credit. If you ask us, we will tell you whether we obtained a consumer  \n"
+"\t\n"
+"\treport and if we did, we will tell you the name and address of the consumer reporting \n"
+"\t\n"
+"\tagency that gave us the report.\n"
+"\t\n"
+"\tVermont Residents: By clicking on Submit, you authorize us and our employees or agents  \n"
+"\t\n"
+"\tto obtain and verify information about you (including one or more credit reports, information \n"
+"\t\n"
+"\tabout your employment and banking and credit relationships) that we may deem necessary  \n"
+"\t\n"
+"\tor appropriate in reviewing your application. If your application is approved and credit is \n"
+"\t\n"
+"\textended, you also authorize us, and our employees and agents, to obtain additional credit \n"
+"\t\n"
+"\treports and other information about you in connection with reviewing the account,  \n"
+"\t\n"
+"\tincreasing the available credit on the account (if applicable), taking collection on  \n"
+"\t\n"
+"\tthe account, or for any other legitimate purpose.\n"
+"\t\n"
+"\tMarried Wisconsin Residents: Wisconsin law provides that no provision of any marital  \n"
+"\t\n"
+"\tproperty agreement, or unilateral statement, or court order applied to marital property  \n"
+"\t\n"
+"\twill adversely affect a creditor's interests unless, prior to the time that the credit \n"
+"\t\n"
+"\tis granted, the creditor is furnished with a copy of the agreement, statement or decree,\n"
+"\t\n"
+"\tor has actual  knowledge of the adverse provision. If you are making this application  \n"
+"\t\n"
+"\tindividually, and not jointly with your spouse, the full name and current address of \n"
+"\t\n"
+"\tyour spouse must be properly disclosed in the co-applicant section of this application.\n"
+"\t"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:850
+msgid "This vehicle is ready to go right now."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:863
+msgid "Edit Vehicle Option Tabs"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:865
+msgid "Add and remove the groups and options that appear under the different vehicle information tabs."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:917
+msgid "Safety Tab"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:919
+#: ../admin/car-demon-admin-settings.php:944
+#: ../admin/car-demon-admin-settings.php:969
+#: ../admin/car-demon-admin-settings.php:994
+#: ../admin/car-demon-admin-settings.php:1019
+msgid "Close Tab"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:920
+#: ../admin/car-demon-admin-settings.php:945
+#: ../admin/car-demon-admin-settings.php:970
+#: ../admin/car-demon-admin-settings.php:995
+#: ../admin/car-demon-admin-settings.php:1020
+msgid "Add Group"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:942
+msgid "Convenience Tab"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:967
+msgid "Comfort Tab"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:992
+msgid "Entertainment Tab"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:1017
+msgid "About Us Tab"
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:1039
+msgid "The About Us tab works slightly differently than the other tabs."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:1041
+msgid "It displays each title and description area as a block of text with a title, it does not display items delimited by a comma."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:1046
+msgid "If you delete a group or option here then it will no longer show on the vehicles."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:1048
+msgid "However, the information is not removed from the vehicles, it is retained but hidden."
+msgstr ""
+
+#: ../admin/car-demon-admin-settings.php:1050
+msgid "To permanently delete the information from the vehicles you will need to remove it from each one, then remove the option here to prevent it from being readded to a vehicle."
+msgstr ""
+
+#: ../admin/car-demon-admin-vehicle-options.php:94
+msgid "Legend"
+msgstr ""
+
+#: ../admin/car-demon-admin-vehicle-options.php:97
+msgid "Std. - Standard: indicates a manufacturer-installed feature that comes standard."
+msgstr ""
+
+#: ../admin/car-demon-admin-vehicle-options.php:98
+msgid "Opt. - Optional: indicates a manufacturer-installed feature that does not come standard."
+msgstr ""
+
+#: ../admin/car-demon-admin-vehicle-options.php:99
+msgid "N/A - Not Available: indicates a feature that is not available as a manufacturer-installed item."
+msgstr ""
+
+#: ../admin/car-demon-admin-vehicle-options.php:187
+msgid "Disclaimer"
+msgstr ""
+
+#: ../admin/car-demon-admin-vehicle-options.php:190
+msgid "ALTHOUGH THIS SITE CHECKS REGULARLY WITH ITS DATA SOURCES TO CONFIRM THE ACCURACY AND COMPLETENESS OF THE DATA,"
+msgstr ""
+
+#: ../admin/car-demon-admin-vehicle-options.php:191
+msgid "IT MAKES NO GUARANTY OR WARRANTY, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY OR MERCHANTABILITY"
+msgstr ""
+
+#: ../admin/car-demon-admin-vehicle-options.php:192
+msgid "OR FITNESS FOR PARTICULAR PURPOSE, WITH RESPECT TO THE DATA PRESENTED IN THIS REPORT. USER ASSUMES ALL RISKS IN USING ANY"
+msgstr ""
+
+#: ../admin/car-demon-admin-vehicle-options.php:193
+msgid "DATA IN THIS REPORT FOR HIS OR HER OWN APPLICATIONS. ALL DATA IN THIS REPORT ARE SUBJECT TO CHANGE WITHOUT NOTICE."
+msgstr ""
+
+#: ../admin/car-demon-admin-vehicle-options.php:197
+msgid "Standard Option"
+msgstr ""
+
+#: ../admin/car-demon-admin-vehicle-options.php:199
+msgid "Optional"
+msgstr ""
+
+#: ../admin/car-demon-admin-vehicle-options.php:201
+msgid "NA"
+msgstr ""
+
+#: ../admin/car-demon-columns.php:8
+msgid "Vehicle Title"
+msgstr ""
+
+#: ../admin/car-demon-columns.php:9
+msgid "Photo"
+msgstr ""
+
+#: ../admin/car-demon-columns.php:10
+msgid "Retail Price"
+msgstr ""
+
+#: ../admin/car-demon-columns.php:11
+#: ../admin/car-demon-columns.php:53
+msgid "Rebate"
+msgstr ""
+
+#: ../admin/car-demon-columns.php:12
+#: ../admin/car-demon-columns.php:126
+msgid "Discount"
+msgstr ""
+
+#: ../admin/car-demon-columns.php:13
+#: ../admin/car-demon-columns.php:134
+msgid "Price"
+msgstr ""
+
+#: ../admin/car-demon-columns.php:14
+msgid "Sold"
+msgstr ""
+
+#: ../admin/car-demon-columns.php:44
+msgid "Selling Price"
+msgstr ""
+
+#: ../admin/car-demon-columns.php:62
+msgid "Xtra Discount"
+msgstr ""
+
+#: ../admin/car-demon-columns.php:78
+msgid "Calculated Price:"
+msgstr ""
+
+#: ../admin/car-demon-columns.php:79
+msgid "Calculated Discount:"
+msgstr ""
+
+#: ../admin/car-demon-columns.php:89
+msgid "Your Price"
+msgstr ""
+
+#: ../admin/car-demon-columns.php:110
+msgid "MSRP"
+msgstr ""
+
+#: ../admin/car-demon-columns.php:118
+msgid "Rebates"
+msgstr ""
+
+#: ../admin/car-demon-columns.php:217
+msgid "Edit this item inline"
+msgstr ""
+
+#: ../admin/car-demon-columns.php:219
+msgid "Quick&nbsp;Edits"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:72
+#: ../car-demon-forms/car-demon-forms.php:73
+#: ../car-demon-forms/car-demon-forms.php:105
+#: ../car-demon-forms/car-demon-forms.php:106
+#: ../car-demon-forms/car-demon-forms.php:145
+#: ../car-demon-forms/car-demon-forms.php:146
+#: ../car-demon-forms/car-demon-forms.php:177
+#: ../car-demon-forms/car-demon-forms.php:178
+#: ../car-demon-forms/car-demon-forms.php:234
+#: ../car-demon-forms/car-demon-forms.php:235
+#: ../car-demon-forms/car-demon-forms.php:265
+#: ../car-demon-forms/car-demon-forms.php:266
+msgid "You must enter your name."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:74
+#: ../car-demon-forms/car-demon-forms.php:107
+#: ../car-demon-forms/car-demon-forms.php:147
+#: ../car-demon-forms/car-demon-forms.php:179
+#: ../car-demon-forms/car-demon-forms.php:236
+#: ../car-demon-forms/car-demon-forms.php:267
+msgid "You must enter a valid Phone Number."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:75
+#: ../car-demon-forms/car-demon-forms.php:108
+#: ../car-demon-forms/car-demon-forms.php:148
+#: ../car-demon-forms/car-demon-forms.php:180
+#: ../car-demon-forms/car-demon-forms.php:237
+#: ../car-demon-forms/car-demon-forms.php:268
+msgid "The phone number you entered is not valid."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:76
+#: ../car-demon-forms/car-demon-forms.php:109
+#: ../car-demon-forms/car-demon-forms.php:272
+msgid "You did not select who you want to send this message to."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:77
+#: ../car-demon-forms/car-demon-forms.php:110
+msgid "You did not enter a message to send."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:83
+#: ../car-demon-forms/car-demon-forms.php:122
+#: ../car-demon-forms/car-demon-forms.php:156
+#: ../car-demon-forms/car-demon-forms.php:190
+#: ../car-demon-forms/car-demon-forms.php:245
+#: ../car-demon-forms/car-demon-forms.php:278
+msgid "You didn't enter an email address."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:84
+#: ../car-demon-forms/car-demon-forms.php:123
+#: ../car-demon-forms/car-demon-forms.php:157
+#: ../car-demon-forms/car-demon-forms.php:191
+#: ../car-demon-forms/car-demon-forms.php:246
+#: ../car-demon-forms/car-demon-forms.php:279
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:85
+#: ../car-demon-forms/car-demon-forms.php:124
+#: ../car-demon-forms/car-demon-forms.php:158
+#: ../car-demon-forms/car-demon-forms.php:192
+#: ../car-demon-forms/car-demon-forms.php:247
+#: ../car-demon-forms/car-demon-forms.php:280
+msgid "The email address contains illegal characters."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:111
+msgid "You must enter the year of the vehicle you wish to trade."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:112
+msgid "You must enter the manufacturer of the vehicle you wish to trade."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:113
+msgid "You must enter the model of the vehicle you wish to trade."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:114
+msgid "You must enter the miles of the vehicle you wish to trade."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:115
+msgid "You indicated you were interested in purchasing a vehicle but did not select one."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:116
+msgid "You did not select a trade location."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:143
+msgid "You may only add 10 parts to your request"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:144
+msgid "If you need additional parts please add them in the comment area."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:149
+msgid "You did not select a part location."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:150
+msgid "You need to add at least the name of one part you are looking for."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:181
+#: ../car-demon-forms/car-demon-forms.php:238
+msgid "You did not select a service location."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:182
+msgid "You did not select a preferred appointment date."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:183
+msgid "You did not select an alternate appointment date."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:184
+#: ../car-demon-forms/car-demon-forms.php:239
+msgid "You did not tell us what kind of service you need."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:195
+msgid "January"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:196
+msgid "February"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:197
+msgid "March"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:198
+msgid "April"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:199
+msgid "May"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:200
+msgid "June"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:201
+msgid "July"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:202
+msgid "August"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:203
+msgid "September"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:204
+msgid "October"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:205
+msgid "November"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:206
+msgid "December"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:207
+msgid "Pick Time"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:208
+msgid "Early Morning"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:209
+msgid "Mid Morning"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:210
+msgid "Late Morning"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:211
+msgid "Early Afternoon"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:212
+msgid "Mid Afternoon"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:213
+msgid "Late Afternoon"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:214
+msgid "Clear"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:215
+msgid "Close"
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:269
+msgid "You must enter your city."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:270
+msgid "You must enter your employer."
+msgstr ""
+
+#: ../car-demon-forms/car-demon-forms.php:271
+msgid "You must enter your income."
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-contact-us.php:9
+#: ../car-demon-forms/forms/car-demon-contact-us.php:39
+#: ../car-demon-forms/forms/car-demon-contact-us.php:56
+#: ../car-demon-forms/forms/car-demon-part-request.php:9
+#: ../car-demon-forms/forms/car-demon-part-request.php:46
+#: ../car-demon-forms/forms/car-demon-part-request.php:47
+#: ../car-demon-forms/forms/car-demon-part-request.php:99
+msgid "required"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-contact-us.php:37
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:41
+msgid "YOUR INFORMATION"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-contact-us.php:39
+#: ../car-demon-forms/forms/car-demon-part-request.php:46
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:43
+msgid "Your Name"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-contact-us.php:40
+#: ../car-demon-forms/forms/car-demon-part-request.php:47
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:44
+msgid "Phone #"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-contact-us.php:41
+#: ../car-demon-forms/forms/car-demon-part-request.php:48
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:45
+msgid "Email"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-contact-us.php:41
+#: ../car-demon-forms/forms/car-demon-part-request.php:48
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:45
+msgid "valid email required"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-contact-us.php:50
+msgid "Add Contact"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-contact-us.php:51
+msgid "Remove Contact"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-contact-us.php:54
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:84
+msgid "Questions and Comments"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-contact-us.php:61
+msgid "Contact Us"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:29
+msgid "SOMETHING WENT WRONG! THIS PAGE IS NOT SECURE!"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:30
+msgid "THIS FORM HAS BEEN DISABLED FOR YOUR PROTECTION."
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:31
+msgid "PLEASE CONTACT THE SITE ADMINISTRATOR FOR MORE INFORMATION."
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:61
+msgid "Do you have a Co-Signer"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:75
+msgid "Enter Co-Signer"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:75
+msgid "Co-Signer"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:206
+msgid "Vehicle of Interest"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:207
+msgid "This is"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:207
+msgid "NOT"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:207
+msgid "the vehicle I'm interested in."
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:209
+msgid "Stock #"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:210
+#: ../car-demon-forms/forms/car-demon-part-request.php:66
+msgid "VIN"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:212
+msgid "Vehicle"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:230
+msgid "What Vehicle are you Interested In Purchasing?"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:231
+msgid "I know the stock#"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:233
+msgid "I would like to search for it"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:234
+msgid "(enter year, make or model)"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:235
+msgid "I haven't made up my mind."
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:323
+msgid "Finance Location"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-finance-form.php:325
+msgid "Select your preferred Finance Location"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-part-request.php:44
+msgid "Your Information"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-part-request.php:57
+msgid "Add Part"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-part-request.php:58
+msgid "Remove Part"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-part-request.php:61
+msgid "Vehicle Information"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-part-request.php:63
+msgid "Year"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-part-request.php:64
+msgid "Manufacturer"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-part-request.php:65
+msgid "Model"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-part-request.php:70
+msgid "Parts Needed"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-part-request.php:76
+msgid "Comments & Questions"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-part-request.php:80
+msgid "Request Quote"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-part-request.php:101
+msgid "Part Name #"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-part-request.php:102
+msgid "Part Number #"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-part-request.php:143
+msgid "Parts Department"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-part-request.php:145
+msgid "Select your preferred Parts Department"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:46
+msgid "What city do you live in?"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:47
+msgid "How long at current address?"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:49
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:59
+msgid "Under 1 Year"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:50
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:60
+msgid "1-2 Years"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:51
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:61
+msgid "2-3 Years"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:52
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:62
+msgid "Over 3 Years"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:55
+msgid "Current Employer"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:56
+msgid "Gross Monthly Income"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:57
+msgid "How long at current job?"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:65
+msgid "How much can you put down?"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:66
+msgid "Do you have a trade in?"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:80
+msgid "Add qualify"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:81
+msgid "Remove qualify"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-qualify-form.php:91
+msgid "Qualify Me"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-service-form.php:47
+msgid "Schedule Service Appointment"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-service-form.php:62
+msgid "Appointment Information"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-service-form.php:64
+msgid "Preferred Appointment Date"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-service-form.php:68
+msgid "Alternate Appointment Date"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-service-form.php:72
+msgid "Will you be..."
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-service-form.php:74
+msgid "Waiting"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-service-form.php:76
+msgid "Leaving Car"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-service-form.php:79
+msgid "Do you need alternate transportation?"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-service-form.php:94
+#: ../car-demon-forms/forms/car-demon-service-quote.php:61
+#: ../car-demon-forms/forms/car-demon-trade-form.php:41
+msgid "Miles"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-service-form.php:95
+#: ../car-demon-forms/forms/car-demon-service-quote.php:62
+#: ../car-demon-forms/forms/car-demon-trade-form.php:42
+msgid "Vin"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-service-form.php:96
+#: ../car-demon-forms/forms/car-demon-service-quote.php:63
+msgid "Service Required"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-service-form.php:100
+msgid "Send Appointment"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-service-form.php:146
+msgid "Select your preferred Service Location"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-service-quote.php:41
+msgid "Service Quote"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-service-quote.php:67
+msgid "Send Quote"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:43
+#: ../car-demon-forms/forms/finance/living_situation.php:79
+msgid "Comments"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:49
+msgid "Purchase Information"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:67
+msgid "Get Quote!"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:125
+msgid "Description"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:125
+msgid "enter year, make or model"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:175
+msgid "Trade Location"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:177
+msgid "Select your preferred Trade Location"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:200
+msgid "Your Trade-In Vehicle Options"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:203
+msgid "4 Wheel Drive"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:204
+msgid "ABS Brakes"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:205
+msgid "Air Bag"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:207
+msgid "Air Conditioning"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:208
+msgid "Alloy Wheels"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:209
+msgid "AM/FM Stereo"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:211
+msgid "Anti-Theft"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:212
+msgid "Bed Liner"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:213
+msgid "Bra"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:215
+msgid "Cassette"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:216
+msgid "Cruise Control"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:217
+msgid "Dual Air Bags"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:219
+msgid "Dual Rear Wheels"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:220
+msgid "DVD System"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:221
+msgid "Integrated Cellular"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:223
+msgid "Leather"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:224
+msgid "Long Bed"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:225
+msgid "Luggage Rack"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:227
+msgid "Moon Roof"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:228
+msgid "Multi CD"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:229
+msgid "Nav System"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:231
+msgid "Power Locks"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:232
+msgid "Power Seats"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:233
+msgid "Power Windows"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:235
+msgid "Premium Wheels"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:236
+msgid "Privacy Glass"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:237
+msgid "Rear Air/Heat"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:239
+msgid "Running Boards"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:240
+msgid "Short Bed"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:241
+msgid "Single CD"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:243
+msgid "Sliding Rear Window"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:244
+msgid "Sun Roof"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:245
+msgid "Third Seat"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:247
+msgid "Tilt Wheel"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:248
+msgid "Towing Package"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:249
+msgid "Video System"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:251
+msgid "Wheel Covers"
+msgstr ""
+
+#: ../car-demon-forms/forms/car-demon-trade-form.php:253
+msgid "options not required, but help provide an accurate quote"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:4
+#: ../car-demon-forms/forms/finance/co_address.php:2
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:6
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:7
+msgid "Apt/Suite"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:9
+#: ../car-demon-forms/forms/finance/co_address.php:7
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:11
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:12
+msgid "APT/SUITE REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:13
+#: ../car-demon-forms/forms/finance/co_address.php:11
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:15
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:16
+msgid "Street Number"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:18
+#: ../car-demon-forms/forms/finance/co_address.php:16
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:20
+msgid "STREET NUM REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:22
+#: ../car-demon-forms/forms/finance/co_address.php:20
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:24
+msgid "Street Name"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:27
+#: ../car-demon-forms/forms/finance/co_address.php:25
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:29
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:30
+msgid "STREET NAME REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:31
+#: ../car-demon-forms/forms/finance/co_address.php:29
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:33
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:34
+msgid "Street Type"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:36
+#: ../car-demon-forms/forms/finance/co_address.php:34
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:38
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:39
+msgid "AVENUE"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:37
+#: ../car-demon-forms/forms/finance/co_address.php:35
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:39
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:40
+msgid "BOULEVARD"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:38
+#: ../car-demon-forms/forms/finance/co_address.php:36
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:40
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:41
+msgid "CIRCLE"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:39
+#: ../car-demon-forms/forms/finance/co_address.php:37
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:41
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:42
+msgid "COURT"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:40
+#: ../car-demon-forms/forms/finance/co_address.php:38
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:42
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:43
+msgid "CRESCENT"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:41
+#: ../car-demon-forms/forms/finance/co_address.php:39
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:43
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:44
+msgid "DRIVE"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:42
+#: ../car-demon-forms/forms/finance/co_address.php:40
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:44
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:45
+msgid "FREEWAY"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:43
+#: ../car-demon-forms/forms/finance/co_address.php:41
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:45
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:46
+msgid "HIGHWAY"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:44
+#: ../car-demon-forms/forms/finance/co_address.php:42
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:46
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:47
+msgid "LANE"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:45
+#: ../car-demon-forms/forms/finance/co_address.php:43
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:47
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:48
+msgid "PARKWAY"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:46
+#: ../car-demon-forms/forms/finance/co_address.php:44
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:48
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:49
+msgid "PLACE"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:47
+#: ../car-demon-forms/forms/finance/co_address.php:45
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:49
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:50
+msgid "PLAZA"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:48
+#: ../car-demon-forms/forms/finance/co_address.php:46
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:50
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:51
+msgid "ROAD"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:49
+#: ../car-demon-forms/forms/finance/co_address.php:47
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:51
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:52
+msgid "SQUARE"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:50
+#: ../car-demon-forms/forms/finance/co_address.php:48
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:52
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:53
+msgid "STREET"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:51
+#: ../car-demon-forms/forms/finance/co_address.php:49
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:53
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:54
+msgid "TERRACE"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:52
+#: ../car-demon-forms/forms/finance/co_address.php:50
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:54
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:55
+msgid "TRAIL"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:53
+#: ../car-demon-forms/forms/finance/co_address.php:51
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:55
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:56
+msgid "TURNPIKE"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:54
+#: ../car-demon-forms/forms/finance/co_address.php:52
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:56
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:57
+msgid "WAY"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:57
+#: ../car-demon-forms/forms/finance/co_address.php:55
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:59
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:60
+msgid "STREET TYPE REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:61
+#: ../car-demon-forms/forms/finance/co_address.php:59
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:63
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:64
+msgid "PO Box"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:66
+#: ../car-demon-forms/forms/finance/co_address.php:64
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:68
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:69
+msgid "PO BOX REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:70
+#: ../car-demon-forms/forms/finance/co_address.php:68
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:72
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:73
+msgid "Rural Route"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:75
+#: ../car-demon-forms/forms/finance/co_address.php:73
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:77
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:78
+msgid "RURAL ROUTE REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:79
+#: ../car-demon-forms/forms/finance/co_address.php:77
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:81
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:82
+msgid "City"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:84
+#: ../car-demon-forms/forms/finance/co_address.php:82
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:86
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:87
+msgid "CITY REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:88
+#: ../car-demon-forms/forms/finance/co_address.php:86
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:90
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:91
+msgid "State"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:151
+#: ../car-demon-forms/forms/finance/co_address.php:149
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:153
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:154
+msgid "STATE REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:155
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:157
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:158
+msgid "Zip"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:160
+#: ../car-demon-forms/forms/finance/co_address.php:158
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:162
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:163
+msgid "ZIP REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:164
+#: ../car-demon-forms/forms/finance/co_address.php:162
+msgid "Birth Date"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:164
+msgid "Month-Date-Year"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:169
+#: ../car-demon-forms/forms/finance/co_address.php:167
+msgid "Jan"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:170
+#: ../car-demon-forms/forms/finance/co_address.php:168
+msgid "Feb"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:171
+#: ../car-demon-forms/forms/finance/co_address.php:169
+msgid "Mar"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:172
+#: ../car-demon-forms/forms/finance/co_address.php:170
+msgid "Apr"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:174
+#: ../car-demon-forms/forms/finance/co_address.php:172
+msgid "Jun"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:175
+#: ../car-demon-forms/forms/finance/co_address.php:173
+msgid "Jul"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:176
+#: ../car-demon-forms/forms/finance/co_address.php:174
+msgid "Aug"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:177
+#: ../car-demon-forms/forms/finance/co_address.php:175
+msgid "Sep"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:178
+#: ../car-demon-forms/forms/finance/co_address.php:176
+msgid "Oct"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:179
+#: ../car-demon-forms/forms/finance/co_address.php:177
+msgid "Nov"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:180
+#: ../car-demon-forms/forms/finance/co_address.php:178
+msgid "Dec"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:196
+#: ../car-demon-forms/forms/finance/co_address.php:193
+msgid "DAY REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:199
+#: ../car-demon-forms/forms/finance/co_address.php:196
+msgid "MONTH REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/address.php:202
+#: ../car-demon-forms/forms/finance/co_address.php:199
+msgid "YEAR REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_address.php:162
+msgid "(Month-Date-Year)"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_employer.php:3
+msgid "STEP FIVE  - Co-Applicant Employment Info"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_employer.php:6
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:6
+#: ../car-demon-forms/forms/finance/employer.php:7
+#: ../car-demon-forms/forms/finance/employer_previous.php:7
+msgid "Employer Name"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_employer.php:11
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:11
+#: ../car-demon-forms/forms/finance/employer.php:12
+#: ../car-demon-forms/forms/finance/employer_previous.php:12
+msgid "EMPLOYER REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_employer.php:15
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:15
+#: ../car-demon-forms/forms/finance/employer.php:16
+#: ../car-demon-forms/forms/finance/employer_previous.php:16
+msgid "Position"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_employer.php:20
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:20
+#: ../car-demon-forms/forms/finance/employer.php:21
+#: ../car-demon-forms/forms/finance/employer_previous.php:21
+msgid "POSITION REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_employer.php:24
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:24
+#: ../car-demon-forms/forms/finance/employer.php:25
+#: ../car-demon-forms/forms/finance/employer_previous.php:25
+msgid "Years/Month at Company"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_employer.php:32
+#: ../car-demon-forms/forms/finance/co_employer.php:33
+#: ../car-demon-forms/forms/finance/co_employer.php:34
+#: ../car-demon-forms/forms/finance/co_employer.php:35
+#: ../car-demon-forms/forms/finance/co_employer.php:36
+#: ../car-demon-forms/forms/finance/co_employer.php:37
+#: ../car-demon-forms/forms/finance/co_employer.php:38
+#: ../car-demon-forms/forms/finance/co_employer.php:39
+#: ../car-demon-forms/forms/finance/co_employer.php:40
+#: ../car-demon-forms/forms/finance/co_employer.php:41
+#: ../car-demon-forms/forms/finance/co_employer.php:42
+#: ../car-demon-forms/forms/finance/co_employer.php:43
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:32
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:33
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:34
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:35
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:36
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:37
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:38
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:39
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:40
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:41
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:42
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:43
+#: ../car-demon-forms/forms/finance/co_living_situation.php:14
+#: ../car-demon-forms/forms/finance/co_living_situation.php:15
+#: ../car-demon-forms/forms/finance/co_living_situation.php:16
+#: ../car-demon-forms/forms/finance/co_living_situation.php:17
+#: ../car-demon-forms/forms/finance/co_living_situation.php:18
+#: ../car-demon-forms/forms/finance/co_living_situation.php:19
+#: ../car-demon-forms/forms/finance/co_living_situation.php:20
+#: ../car-demon-forms/forms/finance/co_living_situation.php:21
+#: ../car-demon-forms/forms/finance/co_living_situation.php:22
+#: ../car-demon-forms/forms/finance/co_living_situation.php:23
+#: ../car-demon-forms/forms/finance/co_living_situation.php:24
+#: ../car-demon-forms/forms/finance/co_living_situation.php:25
+#: ../car-demon-forms/forms/finance/employer.php:34
+#: ../car-demon-forms/forms/finance/employer.php:35
+#: ../car-demon-forms/forms/finance/employer.php:36
+#: ../car-demon-forms/forms/finance/employer.php:37
+#: ../car-demon-forms/forms/finance/employer.php:38
+#: ../car-demon-forms/forms/finance/employer.php:39
+#: ../car-demon-forms/forms/finance/employer.php:40
+#: ../car-demon-forms/forms/finance/employer.php:41
+#: ../car-demon-forms/forms/finance/employer.php:42
+#: ../car-demon-forms/forms/finance/employer.php:43
+#: ../car-demon-forms/forms/finance/employer.php:44
+#: ../car-demon-forms/forms/finance/employer.php:45
+#: ../car-demon-forms/forms/finance/employer_previous.php:34
+#: ../car-demon-forms/forms/finance/employer_previous.php:35
+#: ../car-demon-forms/forms/finance/employer_previous.php:36
+#: ../car-demon-forms/forms/finance/employer_previous.php:37
+#: ../car-demon-forms/forms/finance/employer_previous.php:38
+#: ../car-demon-forms/forms/finance/employer_previous.php:39
+#: ../car-demon-forms/forms/finance/employer_previous.php:40
+#: ../car-demon-forms/forms/finance/employer_previous.php:41
+#: ../car-demon-forms/forms/finance/employer_previous.php:42
+#: ../car-demon-forms/forms/finance/employer_previous.php:43
+#: ../car-demon-forms/forms/finance/employer_previous.php:44
+#: ../car-demon-forms/forms/finance/employer_previous.php:45
+#: ../car-demon-forms/forms/finance/living_situation.php:15
+#: ../car-demon-forms/forms/finance/living_situation.php:16
+#: ../car-demon-forms/forms/finance/living_situation.php:17
+#: ../car-demon-forms/forms/finance/living_situation.php:18
+#: ../car-demon-forms/forms/finance/living_situation.php:19
+#: ../car-demon-forms/forms/finance/living_situation.php:20
+#: ../car-demon-forms/forms/finance/living_situation.php:21
+#: ../car-demon-forms/forms/finance/living_situation.php:22
+#: ../car-demon-forms/forms/finance/living_situation.php:23
+#: ../car-demon-forms/forms/finance/living_situation.php:24
+#: ../car-demon-forms/forms/finance/living_situation.php:25
+#: ../car-demon-forms/forms/finance/living_situation.php:26
+msgid "Months"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_employer.php:46
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:49
+#: ../car-demon-forms/forms/finance/co_living_situation.php:28
+#: ../car-demon-forms/forms/finance/employer.php:49
+#: ../car-demon-forms/forms/finance/employer_previous.php:52
+#: ../car-demon-forms/forms/finance/living_situation.php:29
+msgid "YEARS REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_employer.php:49
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:46
+#: ../car-demon-forms/forms/finance/co_living_situation.php:31
+#: ../car-demon-forms/forms/finance/employer.php:52
+#: ../car-demon-forms/forms/finance/employer_previous.php:49
+#: ../car-demon-forms/forms/finance/living_situation.php:32
+msgid "MONTHS REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_employer.php:53
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:53
+#: ../car-demon-forms/forms/finance/employer.php:56
+#: ../car-demon-forms/forms/finance/employer_previous.php:55
+msgid "Employer Phone Number"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_employer.php:58
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:58
+#: ../car-demon-forms/forms/finance/co_personal_info.php:35
+#: ../car-demon-forms/forms/finance/employer.php:61
+#: ../car-demon-forms/forms/finance/employer_previous.php:60
+#: ../car-demon-forms/forms/finance/personal_info.php:37
+msgid "PHONE REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_employer.php:67
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:67
+#: ../car-demon-forms/forms/finance/employer.php:70
+#: ../car-demon-forms/forms/finance/employer_previous.php:69
+msgid "INCOME REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_employer.php:71
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:71
+#: ../car-demon-forms/forms/finance/employer.php:74
+#: ../car-demon-forms/forms/finance/employer_previous.php:73
+msgid "Other Income"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_employer.php:76
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:76
+#: ../car-demon-forms/forms/finance/employer.php:79
+#: ../car-demon-forms/forms/finance/employer_previous.php:78
+msgid "OTHER INCOME REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_employer_previous.php:3
+msgid "Co-Applicant Previous Employment"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:3
+msgid "STEP SIX  - Co-Applicant Living Situation"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:6
+#: ../car-demon-forms/forms/finance/living_situation.php:7
+msgid "Years/Month at Current Address"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:35
+#: ../car-demon-forms/forms/finance/living_situation.php:36
+msgid "Do you Own or Rent ?"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:39
+#: ../car-demon-forms/forms/finance/living_situation.php:40
+msgid "Own"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:40
+#: ../car-demon-forms/forms/finance/living_situation.php:41
+msgid "Rent"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:41
+#: ../car-demon-forms/forms/finance/living_situation.php:42
+msgid "Relatives"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:44
+#: ../car-demon-forms/forms/finance/co_living_situation.php:53
+#: ../car-demon-forms/forms/finance/co_living_situation.php:71
+#: ../car-demon-forms/forms/finance/co_living_situation.php:74
+#: ../car-demon-forms/forms/finance/living_situation.php:45
+#: ../car-demon-forms/forms/finance/living_situation.php:54
+#: ../car-demon-forms/forms/finance/living_situation.php:72
+#: ../car-demon-forms/forms/finance/living_situation.php:75
+msgid "REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:48
+#: ../car-demon-forms/forms/finance/living_situation.php:49
+msgid "Rent Amount/Mortgage Payment $"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:57
+#: ../car-demon-forms/forms/finance/living_situation.php:58
+msgid "Best Contact Place And Time"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:61
+#: ../car-demon-forms/forms/finance/living_situation.php:62
+msgid "Home"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:62
+#: ../car-demon-forms/forms/finance/living_situation.php:63
+msgid "Work"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:66
+msgid "Morning   "
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:66
+#: ../car-demon-forms/forms/finance/living_situation.php:67
+msgid "Morning"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:67
+msgid "Afternoon "
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:67
+#: ../car-demon-forms/forms/finance/living_situation.php:68
+msgid "Afternoon"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:68
+msgid "Evening   "
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation.php:68
+#: ../car-demon-forms/forms/finance/living_situation.php:69
+msgid "Evening"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_living_situation_previous.php:3
+msgid "Previous Co-Applicant Address"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_personal_info.php:3
+msgid "STEP FOUR - Co-Applicant Information"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_personal_info.php:3
+msgid "(Optional)"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_personal_info.php:6
+#: ../car-demon-forms/forms/finance/personal_info.php:8
+msgid "First Name"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_personal_info.php:11
+#: ../car-demon-forms/forms/finance/personal_info.php:13
+msgid "FIRST NAME REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_personal_info.php:15
+#: ../car-demon-forms/forms/finance/personal_info.php:17
+msgid "Middle Initial"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_personal_info.php:21
+#: ../car-demon-forms/forms/finance/personal_info.php:23
+msgid "Last Name"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_personal_info.php:26
+#: ../car-demon-forms/forms/finance/personal_info.php:28
+msgid "LAST NAME REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_personal_info.php:30
+msgid "Home Phone Number"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_personal_info.php:39
+#: ../car-demon-forms/forms/finance/personal_info.php:41
+msgid "Email Address"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_personal_info.php:44
+#: ../car-demon-forms/forms/finance/personal_info.php:46
+msgid "EMAIL REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_personal_info.php:55
+#: ../car-demon-forms/forms/finance/personal_info.php:55
+msgid "SSN REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/co_personal_info.php:59
+msgid "( We secure and protect your confidential information )"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/employer.php:4
+msgid "STEP TWO  - Employment Info"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/employer_previous.php:4
+msgid "PREVIOUS EMPLOYMENT"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/living_situation.php:4
+msgid "STEP THREE - Living Situation"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:4
+msgid "PREVIOUS ADDRESS"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:21
+msgid "STREET NUM  REQUIRED"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/living_situation_previous.php:25
+msgid "App Street Name"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/personal_info.php:4
+msgid "STEP ONE - Personal Info"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/personal_info.php:32
+msgid "Phone Number"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/personal_info.php:50
+msgid "Your info is secure"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/personal_info.php:50
+msgid "Social Security Number"
+msgstr ""
+
+#: ../car-demon-forms/forms/finance/personal_info.php:59
+msgid "We secure and protect your confidential information"
+msgstr ""
+
+#: ../car-demon-forms/forms/js/car-demon-finance-form-js.php:319
+msgid "Issues were detected with your Application."
+msgstr ""
+
+#: ../car-demon-forms/forms/js/car-demon-finance-form-js.php:319
+msgid "Please review the application and submit again."
+msgstr ""
+
+#: ../car-demon-forms/forms/js/car-demon-finance-form-js.php:486
+msgid "Do you have a Co-Signer?"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-contact-us-handler.php:17
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:18
+msgid "You have not setup a contact email in the admin area of your site."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-contact-us-handler.php:27
+msgid "Contact Form from "
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-contact-us-handler.php:59
+#: ../car-demon-forms/handlers/car-demon-email-friend-handler.php:47
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:111
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:80
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:61
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:81
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:81
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:112
+msgid "Thank You"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-contact-us-handler.php:60
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:62
+msgid "Your Message has been sent."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-contact-us-handler.php:61
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:63
+msgid "You should receive a confirmation from us shortly."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-contact-us-handler.php:62
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:83
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:64
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:84
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:84
+msgid "The information you sent is below."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-contact-us-handler.php:63
+#: ../car-demon-forms/handlers/car-demon-email-friend-handler.php:50
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:114
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:84
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:65
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:85
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:85
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:115
+msgid "If you have questions or concerns please call and let us know."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-contact-us-handler.php:87
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:97
+msgid "CONTACT INFORMATION"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-contact-us-handler.php:93
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:198
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:118
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:103
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:124
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:120
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:163
+msgid "Customer Name"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-contact-us-handler.php:105
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:143
+msgid "Message Sent to"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-contact-us-handler.php:112
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:150
+msgid "COMMENT OR QUESTION"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-contact-us-handler.php:124
+#: ../car-demon-forms/handlers/car-demon-email-friend-handler.php:119
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:374
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:184
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:162
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:209
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:180
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:239
+msgid "SENDER INFORMATION"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-contact-us-handler.php:132
+#: ../car-demon-forms/handlers/car-demon-email-friend-handler.php:125
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:387
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:192
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:170
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:217
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:188
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:252
+msgid "Time Sent"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-contact-us-handler.php:136
+#: ../car-demon-forms/handlers/car-demon-email-friend-handler.php:129
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:391
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:196
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:174
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:221
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:192
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:256
+msgid "IP"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-contact-us-handler.php:140
+#: ../car-demon-forms/handlers/car-demon-email-friend-handler.php:133
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:395
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:200
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:178
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:225
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:196
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:260
+msgid "User Agent"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-contact-us-handler.php:184
+msgid "Contact Form"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-email-friend-handler.php:23
+msgid "Check out this car from"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-email-friend-handler.php:48
+msgid "Your Message has been sent to your friend."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-email-friend-handler.php:49
+msgid "Your friend should receive their email shortly."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-email-friend-handler.php:87
+msgid "Your Email"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-email-friend-handler.php:91
+msgid "Your Friend"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-email-friend-handler.php:98
+msgid "Message from your Friend "
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:47
+msgid "You have not setup a finance email in the admin area of your site."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:79
+msgid "Finance Request from "
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:112
+msgid "Your Finance Request has been sent."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:113
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:114
+msgid "You should receive a confirmation shortly."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:137
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:167
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:408
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:438
+msgid "RR"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:138
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:168
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:409
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:439
+msgid "PO BOX"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:139
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:169
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:410
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:440
+msgid "Apt"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:150
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:159
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:163
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:421
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:430
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:434
+msgid "year(s)"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:150
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:159
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:163
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:421
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:430
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:434
+msgid "month(s)"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:192
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:112
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:118
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:114
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:157
+msgid "CUSTOMER INFORMATION"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:202
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:461
+msgid "Best Time to Contact"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:206
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:465
+msgid "DOB"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:221
+msgid "Living Situation"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:235
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:490
+msgid "Current Address"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:239
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:494
+msgid "Time at Current Address"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:243
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:498
+msgid "Rent or Own"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:247
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:502
+msgid "Monthly Payment"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:257
+msgid "Previous Living Situation"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:263
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:518
+msgid "Previous Address"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:273
+msgid "Employment History"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:279
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:315
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:534
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:570
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:123
+msgid "Employer"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:283
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:319
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:538
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:574
+msgid "Job Title"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:287
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:323
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:542
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:578
+msgid "Years at Job"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:291
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:327
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:546
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:582
+msgid "Employer Phone"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:295
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:331
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:550
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:586
+msgid "Gross Income"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:309
+msgid "Previous Employer"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:345
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:215
+msgid "Comment"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:451
+msgid "CO-BUYER INFORMATION"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:457
+msgid "Name"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:476
+msgid "Co-Buyer Living Situation"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:512
+msgid "Co-Buyer Previous Living Situation"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:528
+msgid "Co-Buyer Employment History"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:564
+msgid "Co-Buyer Previous Employer"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-finance-form-handler.php:753
+msgid "Finance Form"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:18
+msgid "You have not setup a part email in the admin area of your site."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:48
+msgid "Part Request from "
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:81
+msgid "Your Part Request has been sent."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:82
+msgid "You should receive a confirmation from our Parts Department Shortly."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:130
+msgid "Part Location"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:137
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:168
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:139
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:182
+msgid "VEHICLE INFORMATION"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:147
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:174
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:145
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:188
+msgid "Vehicle Year"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:151
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:178
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:149
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:192
+msgid "Vehicle Make"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:155
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:182
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:153
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:196
+msgid "Vehicle Model"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:162
+msgid "PARTS REQUESTED"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-part-handler.php:172
+msgid "COMMENTS"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:28
+msgid "Qualify Form from "
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:119
+msgid "Time at Address"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:127
+msgid "Income"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:131
+msgid "Time at Job"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:135
+msgid "Down Payment"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-qualify-handler.php:139
+msgid "Has Trade"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:18
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:18
+msgid "You have not setup a service email in the admin area of your site."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:48
+msgid "Service Request from "
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:82
+msgid "Your Service Request has been sent."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:83
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:83
+msgid "You should receive a confirmation from our Service Department Shortly."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:136
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:132
+msgid "Service Location"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:143
+msgid "APPOINTMENT INFORMATION"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:149
+msgid "Preferred Service Date"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:153
+msgid "Alternate Service Date"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:157
+msgid "Customer will be"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:161
+msgid "Needs Transportation"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:186
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:157
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:200
+msgid "Vehicle Miles"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:190
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:161
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:204
+msgid "Vehicle VIN"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-service-handler.php:197
+msgid "SERVICE REQUESTED"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:48
+msgid "Service Quote from "
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:82
+msgid "Your Service Quote has been sent."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-service-quote-handler.php:168
+msgid "SERVICE QUOTE REQUESTED"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:48
+msgid "You have not setup a trade email in the admin area of your site."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:78
+msgid "Trade Request from "
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:113
+msgid "Your Trade Request has been sent."
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:208
+msgid "Options"
+msgstr ""
+
+#: ../car-demon-forms/handlers/car-demon-trade-form-handler.php:494
+msgid "Trade Form"
+msgstr ""
+
+#: ../car-demon-forms/includes/car-demon-shortcodes.php:36
+#: ../car-demon-forms/includes/car-demon-shortcodes.php:55
+msgid "Search Vehicles"
+msgstr ""
+
+#: ../car-demon-forms/includes/car-demon-shortcodes.php:52
+msgid "Search"
+msgstr ""
+
+#: ../car-demon-forms/includes/car-demon-shortcodes.php:65
+msgid "Request Parts Quote"
+msgstr ""
+
+#: ../car-demon-forms/includes/car-demon-shortcodes.php:75
+#: ../car-demon-forms/includes/car-demon-shortcodes.php:85
+msgid "Service Appointment"
+msgstr ""
+
+#: ../car-demon-forms/includes/car-demon-shortcodes.php:126
+msgid "Contact Me"
+msgstr ""
+
+#: ../includes/car-demon-compare-vehicles.php:49
+#: ../includes/car-demon-list-cars.php:20
+#: ../includes/car-demon-template.php:355
+msgid "Stock#:"
+msgstr ""
+
+#: ../includes/car-demon-create-post-types-tax.php:8
+msgid "Cars For Sale"
+msgstr ""
+
+#: ../includes/car-demon-create-post-types-tax.php:9
+msgid "Car New Car"
+msgstr ""
+
+#: ../includes/car-demon-create-post-types-tax.php:34
+msgid "Make"
+msgstr ""
+
+#: ../includes/car-demon-create-post-types-tax.php:56
+#: ../includes/car-demon-search-form.php:33
+msgid "Condition"
+msgstr ""
+
+#: ../includes/car-demon-create-post-types-tax.php:66
+msgid "Body Style"
+msgstr ""
+
+#: ../includes/car-demon-create-post-types-tax.php:76
+#: ../includes/car-demon-user-control.php:84
+msgid "Location"
+msgstr ""
+
+#: ../includes/car-demon-list-cars.php:14
+#: ../includes/car-demon-template.php:349
+msgid "Condition:"
+msgstr ""
+
+#: ../includes/car-demon-list-cars.php:17
+#: ../includes/car-demon-template.php:352
+msgid "Mileage:"
+msgstr ""
+
+#: ../includes/car-demon-list-cars.php:51
+msgid "View Details"
+msgstr ""
+
+#: ../includes/car-demon-payment-calculator-popup.php:6
+msgid "Finance Calculator"
+msgstr ""
+
+#: ../includes/car-demon-payment-calculator.php:21
+msgid "Loan Calculator"
+msgstr ""
+
+#: ../includes/car-demon-payment-calculator.php:23
+msgid "Please fill out the form and click calculate to estimate your monthly payment."
+msgstr ""
+
+#: ../includes/car-demon-payment-calculator.php:26
+msgid "Estimated Price"
+msgstr ""
+
+#: ../includes/car-demon-payment-calculator.php:31
+msgid "Annual Percentage Rate"
+msgstr ""
+
+#: ../includes/car-demon-payment-calculator.php:35
+msgid "Total Number of Payments"
+msgstr ""
+
+#: ../includes/car-demon-payment-calculator.php:42
+msgid "Calculate"
+msgstr ""
+
+#: ../includes/car-demon-payment-calculator.php:43
+msgid "Reset"
+msgstr ""
+
+#: ../includes/car-demon-payment-calculator.php:47
+msgid "*Estimated Monthly Payment"
+msgstr ""
+
+#: ../includes/car-demon-query.php:209
+msgid "Sort By:"
+msgstr ""
+
+#: ../includes/car-demon-query.php:216
+#: ../includes/car-demon-query.php:226
+msgid "Sort Low to High"
+msgstr ""
+
+#: ../includes/car-demon-query.php:217
+#: ../includes/car-demon-query.php:227
+msgid "Sort High to Low"
+msgstr ""
+
+#: ../includes/car-demon-query.php:228
+#: ../includes/car-demon-query.php:259
+#: ../includes/car-demon-search-form.php:62
+msgid "Mileage"
+msgstr ""
+
+#: ../includes/car-demon-query.php:256
+msgid "Sort By: "
+msgstr ""
+
+#: ../includes/car-demon-query.php:262
+msgid "Desc"
+msgstr ""
+
+#: ../includes/car-demon-query.php:263
+msgid "Asc"
+msgstr ""
+
+#: ../includes/car-demon-register-sidebars.php:4
+msgid "Vehicle Detail Sidebar"
+msgstr ""
+
+#: ../includes/car-demon-register-sidebars.php:14
+msgid "Mobile Header"
+msgstr ""
+
+#: ../includes/car-demon-register-sidebars.php:22
+msgid "Mobile Front Page"
+msgstr ""
+
+#: ../includes/car-demon-register-sidebars.php:30
+msgid "Mobile Footer"
+msgstr ""
+
+#: ../includes/car-demon-register-sidebars.php:38
+msgid "Mobile Car Page"
+msgstr ""
+
+#: ../includes/car-demon-search-fields.php:5
+#: ../includes/car-demon-search-fields.php:195
+#: ../includes/car-demon-search-fields.php:214
+#: ../includes/car-demon-search-fields.php:254
+msgid "Any"
+msgstr ""
+
+#: ../includes/car-demon-search-fields.php:13
+msgid "ALL MAKES"
+msgstr ""
+
+#: ../includes/car-demon-search-fields.php:21
+msgid "ALL MODELS"
+msgstr ""
+
+#: ../includes/car-demon-search-fields.php:28
+msgid "ALL"
+msgstr ""
+
+#: ../includes/car-demon-search-form.php:25
+#: ../includes/car-demon-search-form.php:105
+msgid "QUICK SEARCH"
+msgstr ""
+
+#: ../includes/car-demon-search-form.php:49
+msgid "Min Price"
+msgstr ""
+
+#: ../includes/car-demon-search-form.php:53
+msgid "Max Price"
+msgstr ""
+
+#: ../includes/car-demon-search-form.php:57
+msgid "Trans"
+msgstr ""
+
+#: ../includes/car-demon-search-form.php:66
+#: ../includes/car-demon-search-form.php:118
+msgid "Body Type"
+msgstr ""
+
+#: ../includes/car-demon-template.php:70
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../includes/car-demon-template.php:71
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../includes/car-demon-template.php:75
+msgid "Results Found"
+msgstr ""
+
+#: ../includes/car-demon-template.php:92
+msgid "Run Slideshow"
+msgstr ""
+
+#: ../includes/car-demon-template.php:95
+msgid "Next"
+msgstr ""
+
+#: ../includes/car-demon-template.php:98
+msgid "Previous"
+msgstr ""
+
+#: ../includes/car-demon-template.php:113
+msgid "Send this car to a friend"
+msgstr ""
+
+#: ../includes/car-demon-template.php:122
+msgid "Friend's Name"
+msgstr ""
+
+#: ../includes/car-demon-template.php:122
+msgid "Friend Name"
+msgstr ""
+
+#: ../includes/car-demon-template.php:123
+msgid "Friend's Email"
+msgstr ""
+
+#: ../includes/car-demon-template.php:127
+msgid "Your Message"
+msgstr ""
+
+#: ../includes/car-demon-template.php:129
+msgid "Check out this"
+msgstr ""
+
+#: ../includes/car-demon-template.php:129
+msgid "stock number"
+msgstr ""
+
+#: ../includes/car-demon-template.php:133
+msgid "Send Now!"
+msgstr ""
+
+#: ../includes/car-demon-template.php:173
+msgid "Vehicle Options"
+msgstr ""
+
+#: ../includes/car-demon-template.php:235
+msgid "Specs"
+msgstr ""
+
+#: ../includes/car-demon-template.php:236
+msgid "Safety"
+msgstr ""
+
+#: ../includes/car-demon-template.php:237
+msgid "Convenience"
+msgstr ""
+
+#: ../includes/car-demon-template.php:238
+msgid "Comfort"
+msgstr ""
+
+#: ../includes/car-demon-template.php:239
+msgid "Entertainment"
+msgstr ""
+
+#: ../includes/car-demon-template.php:242
+msgid "About"
+msgstr ""
+
+#: ../includes/car-demon-template.php:332
+msgid "Other Great Deals"
+msgstr ""
+
+#: ../includes/car-demon-template.php:358
+msgid "Click for price on this"
+msgstr ""
+
+#: ../includes/car-demon-template.php:506
+msgid "Nothing Found"
+msgstr ""
+
+#: ../includes/car-demon-template.php:508
+msgid "Sorry, but nothing matched your search criteria. Please try using a broader search selection."
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:12
+msgid "Company"
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:13
+msgid "Other field 1"
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:14
+msgid "Other field 2"
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:52
+msgid "Extra Profile Information"
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:60
+msgid "Upload Profile Photo"
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:62
+msgid "Please select a custom photo."
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:79
+msgid "Please enter a job title for the user."
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:88
+msgid "Please select user location."
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:93
+msgid "Staff Pages"
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:111
+msgid "Select the staff type of the user to determine where they show up on the staff pages."
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:117
+msgid "Advanced Sales Information"
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:121
+msgid "Custom URL"
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:125
+msgid "Please enter user's custom URL. ie. www.custom_url.com, please make sure this URL is mapped to this site."
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:130
+msgid "Facebook Page"
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:134
+msgid "Please enter the URL to user's Facebook Profile."
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:143
+msgid "Please enter user's phone number."
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:147
+msgid "Custom Site Leads"
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:151
+msgid "Receive Lead Types"
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:161
+msgid "Select the lead types user may receive on their custom site."
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:167
+msgid "Lead Locations"
+msgstr ""
+
+#: ../includes/car-demon-user-control.php:175
+msgid "Can user receive leads from ALL locations or just their assigned location?"
+msgstr ""
+
+#: ../includes/car-demon-vehicle-price.php:20
+msgid "SOLD"
+msgstr ""
+
+#: ../theme-files/404.php:13
+msgid "Not Found"
+msgstr ""
+
+#: ../theme-files/search.php:22
+msgid "Search Results:"
+msgstr ""
+
+#: ../theme-files/single-cars_for_sale.php:48
+msgid "VIN#:"
+msgstr ""
+
+#: ../theme-files/single-cars_for_sale.php:49
+msgid "Color:"
+msgstr ""
+
+#: ../theme-files/single-cars_for_sale.php:50
+msgid "Transmission:"
+msgstr ""
+
+#: ../theme-files/single-cars_for_sale.php:51
+msgid "Engine:"
+msgstr ""
+
+#: ../theme-files/single-cars_for_sale.php:64
+#: ../theme-files/single-cars_for_sale.php:71
+msgid "GET FINANCED"
+msgstr ""
+
+#: ../theme-files/single-cars_for_sale.php:79
+msgid "TRADE-IN QUOTE"
+msgstr ""
+
+#: ../theme-files/single-cars_for_sale.php:86
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../theme-files/single-cars_for_sale.php:88
+msgid "Click to share this on Twitter"
+msgstr ""
+
+#: ../theme-files/single-cars_for_sale.php:89
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../theme-files/single-cars_for_sale.php:91
+msgid "Email to a Friend"
+msgstr ""
+
+#: ../theme-files/single-cars_for_sale.php:97
+msgid "Pages:"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:105
+msgid "Hide Tabs on vehicle display page?"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:111
+msgid "This option does not hide the description tab or the about us tab."
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:114
+msgid "Vehicle Option Tabs have been set to hidden under Car Demon settings and will not appear on the front end."
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:166
+msgid "Available"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:168
+msgid "Add To Vehicle"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:171
+msgid "Current Options"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:175
+msgid "You can select from the list or you can manually add and remove options in the box on the left. Make sure you seperate each option with a comma."
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:283
+msgid "Select Ribbon Banner"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:284
+msgid "No Ribbon"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:285
+#: ../vin-query/car-demon-vin-query-admin.php:302
+msgid "Custom Ribbon"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:286
+msgid "Low Price"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:287
+msgid "Great Deal"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:288
+msgid "Just Added"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:289
+msgid "Low Miles"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:290
+msgid "Brand New"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:304
+msgid "Upload"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:396
+#: ../vin-query/car-demon-vin-query.php:63
+msgid "VIN #"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:400
+msgid "Stock Number"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:408
+msgid "Pricing"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:423
+msgid "Asking Price"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:427
+msgid "Details"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:434
+msgid "Used"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:435
+msgid "Certified Used"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:436
+msgid "New"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:441
+#: ../vin-query/car-demon-vin-query.php:68
+msgid "Model Year"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:453
+#: ../vin-query/car-demon-vin-query.php:86
+msgid "Trim"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:457
+msgid "Exterior Color"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:461
+msgid "Interior Color"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:465
+#: ../vin-query/car-demon-vin-query.php:92
+msgid "Manufactured in"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:469
+#: ../vin-query/car-demon-vin-query.php:98
+msgid "Production Seq. Number"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:473
+msgid "Specifications"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:480
+#: ../vin-query/car-demon-vin-query.php:113
+msgid "Engine Type"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:484
+#: ../vin-query/car-demon-vin-query.php:119
+msgid "Transmission"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:488
+#: ../vin-query/car-demon-vin-query.php:125
+msgid "Driveline"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:492
+#: ../vin-query/car-demon-vin-query.php:131
+msgid "Tank(gallon)"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:496
+#: ../vin-query/car-demon-vin-query.php:137
+msgid "Fuel Economy(City, miles/gallon)"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:500
+#: ../vin-query/car-demon-vin-query.php:143
+msgid "Fuel Economy(Highway, miles/gallon)"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:504
+#: ../vin-query/car-demon-vin-query.php:149
+msgid "Anti-Brake System"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:508
+#: ../vin-query/car-demon-vin-query.php:155
+msgid "Steering Type"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:512
+#: ../vin-query/car-demon-vin-query.php:161
+msgid "Length(in.)"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:516
+#: ../vin-query/car-demon-vin-query.php:167
+msgid "Width(in.)"
+msgstr ""
+
+#: ../vin-query/car-demon-vin-query-admin.php:520
+#: ../vin-query/car-demon-vin-query.php:173
+msgid "Height(in.)"
+msgstr ""
+
+#: ../widgets/car-demon-calculator-widget.php:12
+msgid "Loan Calculator."
+msgstr ""
+
+#: ../widgets/car-demon-calculator-widget.php:16
+msgid "Car Demon Loan Calculator"
+msgstr ""
+
+#: ../widgets/car-demon-calculator-widget.php:70
+msgid "25000"
+msgstr ""
+
+#: ../widgets/car-demon-calculator-widget.php:71
+msgid "10"
+msgstr ""
+
+#: ../widgets/car-demon-calculator-widget.php:72
+msgid "60"
+msgstr ""
+
+#: ../widgets/car-demon-calculator-widget.php:73
+msgid "It is not an offer for credit nor a quote."
+msgstr ""
+
+#: ../widgets/car-demon-calculator-widget.php:74
+msgid "This calculator provides an estimated monthly payment. Your actual payment may vary based upon your specific loan and final purchase price."
+msgstr ""
+
+#: ../widgets/car-demon-calculator-widget.php:79
+#: ../widgets/car-demon-car-search-widget.php:72
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/car-demon-calculator-widget.php:81
+msgid "Price:"
+msgstr ""
+
+#: ../widgets/car-demon-calculator-widget.php:83
+msgid "APR:"
+msgstr ""
+
+#: ../widgets/car-demon-calculator-widget.php:85
+msgid "Term:"
+msgstr ""
+
+#: ../widgets/car-demon-calculator-widget.php:87
+msgid "Disclaimer #1:"
+msgstr ""
+
+#: ../widgets/car-demon-calculator-widget.php:89
+msgid "Disclaimer #2:"
+msgstr ""
+
+#: ../widgets/car-demon-car-search-widget.php:12
+msgid "Display Search Cars."
+msgstr ""
+
+#: ../widgets/car-demon-car-search-widget.php:16
+msgid "Car Demon search Cars"
+msgstr ""
+
+#: ../widgets/car-demon-car-search-widget.php:66
+msgid "Search Inventory"
+msgstr ""
+
+#: ../widgets/car-demon-car-search-widget.php:67
+msgid "Full"
+msgstr ""
+
+#: ../widgets/car-demon-car-search-widget.php:74
+msgid "Form Type:"
+msgstr ""
+
+#: ../widgets/car-demon-compare-widget.php:16
+msgid "Car Demon Compare Vehicles"
+msgstr ""
+
+#: ../widgets/car-demon-compare-widget.php:72
+msgid "Select the compare checkbox next to the vehicles you'd like to compare."
+msgstr ""
+
+#: ../widgets/car-demon-compare-widget.php:80
+msgid "No Vehicles Msg:"
+msgstr ""
+
+#: ../widgets/car-demon-random-cars.php:12
+msgid "Display random cars."
+msgstr ""
+
+#: ../widgets/car-demon-random-cars.php:16
+msgid "Car Demon Random Cars"
+msgstr ""
+
+#: ../widgets/car-demon-random-cars.php:53
+msgid "Great Deals"
+msgstr ""
+
+#: ../widgets/car-demon-random-cars.php:54
+msgid "3"
+msgstr ""
+
+#: ../widgets/car-demon-random-cars.php:61
+msgid "# of Cars:"
+msgstr ""
+
+#: ../widgets/car-demon-tag-cloud.php:25
+msgid "A Custom Tag Cloud."
+msgstr ""
+
+#: ../widgets/car-demon-tag-cloud.php:29
+msgid "Car Demon Cloud Widget"
+msgstr ""
+
+#: ../widgets/car-demon-tag-cloud.php:67
+msgid "Popular Models"
+msgstr ""
+
+#: ../widgets/car-demon-tag-cloud.php:67
+msgid "cars_for_sale"
+msgstr ""
+
+#: ../widgets/car-demon-tag-cloud.php:67
+msgid "vehicle_model"
+msgstr ""
+
+#: ../widgets/car-demon-tag-cloud.php:67
+msgid "45"
+msgstr ""
+
+#: ../widgets/car-demon-tag-cloud.php:76
+msgid "Post Type:"
+msgstr ""
+
+#: ../widgets/car-demon-tag-cloud.php:81
+msgid "Taxonomy:"
+msgstr ""
+
+#: ../widgets/car-demon-tag-cloud.php:86
+msgid "max_num:"
+msgstr ""
+
+#: ../widgets/car-demon-vehicle-contact-widget-handler.php:52
+msgid "Vehicle Contact Form from "
+msgstr ""
+
+#: ../widgets/car-demon-vehicle-contact-widget-handler.php:94
+msgid "Your message has been received."
+msgstr ""
+
+#: ../widgets/car-demon-vehicle-contact-widget-handler.php:94
+msgid "A Representative will contact you as soon as possible."
+msgstr ""
+
+#: ../widgets/car-demon-vehicle-contact-widget-handler.php:94
+msgid "A copy of your message is below."
+msgstr ""
+
+#: ../widgets/car-demon-vehicle-contact-widget-handler.php:97
+msgid "Email Confirmation from "
+msgstr ""
+
+#: ../widgets/car-demon-vehicle-contact-widget-handler.php:220
+msgid "Vin Number"
+msgstr ""
+
+#: ../widgets/car-demon-vehicle-contact-widget-handler.php:338
+msgid "Vehicle Contact Form"
+msgstr ""
+
+#: ../widgets/car-demon-vehicle-contact-widget.php:16
+msgid "Display contact form on Vehicle Pages."
+msgstr ""
+
+#: ../widgets/car-demon-vehicle-contact-widget.php:20
+msgid "Car Demon Vehicle Contact"
+msgstr ""
+
+#: ../widgets/car-demon-vehicle-contact-widget.php:112
+msgid "List Phone:"
+msgstr ""
+
+#: ../widgets/car-demon-vehicle-contact-widget.php:118
+msgid "CC:"
+msgstr ""
+
+#: ../widgets/car-demon-vehicle-contact-widget.php:120
+msgid "Send Confirmation Receipt:"
+msgstr ""
+
+#: ../widgets/car-demon-vehicle-contact-widget.php:126
+msgid "Additional Confirmation Message:"
+msgstr ""
+
+#: ../widgets/car-demon-vehicle-contact-widget.php:155
+msgid "For more information"
+msgstr ""
+
+#: ../widgets/car-demon-vehicle-contact-widget.php:155
+msgid "Call"
+msgstr ""
+
+#: ../widgets/car-demon-vehicle-contact-widget.php:155
+msgid "at:"
+msgstr ""
+

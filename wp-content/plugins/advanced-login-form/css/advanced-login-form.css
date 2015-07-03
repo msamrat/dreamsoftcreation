@@ -1,0 +1,159 @@
+
+body.login  {    
+	background:  url(../images/background.jpg) no-repeat fixed center top / cover  #DEE3CF;    
+	height: auto;   
+	min-height: 100%;
+    
+}
+body.login div#login {
+    width: 370px;
+}
+
+body.login div#login p.message {
+    background: none;
+    border:  1px solid #B3CEAD;
+    color: #777;
+    margin-bottom: 5px;
+    border-left: 3px solid #91C46C;
+}
+
+body.login div#login #login_error {
+    background: none;
+    border:  1px solid #B3CEAD;
+    color: #777;
+    border-left: 3px solid #E43733;
+}
+
+#reg_passmail {
+    color: #777;
+}
+
+
+body.login div#login h1 {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+body.login div#login h1.fa-wordpress:before {    
+	background:  #91c46c;   
+	border-radius:  500px;   
+	color:  #fff;   
+	display:  inline-block;    
+	height:  65px;    
+	width:  65px;
+    
+}
+body.login div#login h1 a  {
+    background: none;
+    height: 0;
+    width: 0;
+    margin: 0;
+}
+
+
+body.login div#login form#loginform, 
+body.login div#login form#registerform, 
+body.login div#login form#lostpasswordform {    
+	background:  none,  url(../images/login_bg.png) repeat;   
+	border:  1px solid #B3CEAD;    
+	border-radius:  5px;   
+	position: relative;    
+	padding-top:  60px;
+    
+}
+
+body.login div#login form#loginform p label.fa-envelope:before, 
+body.login div#login form#loginform p label.fa-key:before, 
+body.login div#login form#registerform p label.fa-user:before, 
+body.login div#login form#registerform p label.fa-envelope:before, 
+body.login div#login form#lostpasswordform p label.fa-rocket:before {   
+	color: #fff;    
+	display:  block;   
+	margin-bottom:  -35px;   
+	margin-left:  15px;
+    
+}
+
+body.login div#login form#loginform p label br, 
+body.login div#login form#registerform p label br, 
+body.login div#login form#lostpasswordform p label br {
+    display: none;
+}
+
+
+body.login div#login form#loginform input#user_login, 
+body.login div#login form#registerform input#user_login {
+    margin-bottom: 30px;
+}
+
+
+body.login div#login form#loginform input#user_login, 
+body.login div#login form#loginform input#user_pass, 
+body.login div#login form#registerform input#user_login, 
+body.login div#login form#registerform input#user_email, 
+body.login div#login form#lostpasswordform input#user_login {   
+	border:  1px solid #a5af9d;    
+	border-radius:  4px;    
+	color:  #fff;    
+	font-size:  14px;    
+	padding:  15px 15px 15px 40px;   
+	display: block;   
+	background: none;   
+}
+
+body.login div#login form#loginform input#user_login:focus, 
+body.login div#login form#loginform input#user_pass:focus, 
+body.login div#login form#registerform input#user_login:focus, 
+body.login div#login form#registerform input#user_email:focus, 
+body.login div#login form#lostpasswordform input#user_login:focus {
+    box-shadow: none;
+}
+
+
+body.login div#login form#loginform p.forgetmenot  {
+    margin-bottom:  8px;
+}
+
+
+body.login div#login form#loginform p.submit input#wp-submit, 
+body.login div#login form#registerform p.submit input#wp-submit, 
+body.login div#login form#lostpasswordform p.submit input#wp-submit {    
+	background:  url(../images/button_bg.png) repeat-x;   
+	border:  1px solid #73a84e;    
+	border-radius:  4px;    
+	color:  #fff;    
+	display:  block;    
+	height:  40px;    
+	text-shadow:  2px 1px 0 #73a84e;   
+	width:  100%;
+    
+}
+
+body.login div#login form#loginform p.submit input#wp-submit:focus, 
+body.login div#login form#registerform p.submit input#wp-submit:focus, 
+body.login div#login form#lostpasswordform p.submit input#wp-submit:focus {
+    box-shadow: none;
+}
+
+body.login div#login p#nav  {
+    color: #ddd;
+}
+
+body.login div#login p#backtoblog a, body.login div#login p#nav a  {
+    color: #ddd;
+}
+
+body.login div#login p#backtoblog a:hover, body.login div#login p#nav a:hover  {
+    color: #fff;
+}
+
+
+/*========================================
+		Mobile Layout: 320px.    
+========================================*/
+
+@media only screen and (max-width: 767px) {
+	body.login div#login {width:280px;}
+}
+

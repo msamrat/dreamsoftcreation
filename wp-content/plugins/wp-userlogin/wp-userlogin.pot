@@ -1,0 +1,300 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-userlogin\n"
+"POT-Creation-Date: 2014-12-22 16:47:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: userlogin.php:90 wpul-bootstrap.php:60
+msgid "UserLogin"
+msgstr ""
+
+#: userlogin.php:92
+msgid "CSS Editor"
+msgstr ""
+
+#: userlogin.php:93
+msgid "Help File"
+msgstr ""
+
+#: userlogin.php:130
+msgid "UserLogin Options"
+msgstr ""
+
+#: userlogin.php:132
+msgid "Settings saved."
+msgstr ""
+
+#: userlogin.php:143
+msgid "Form Content Options"
+msgstr ""
+
+#: userlogin.php:145
+msgid "Login Form Name"
+msgstr ""
+
+#: userlogin.php:147
+msgid "Login Redirect Page"
+msgstr ""
+
+#: userlogin.php:149
+msgid "Logout Redirect Page"
+msgstr ""
+
+#: userlogin.php:156
+msgid "Personalization Options"
+msgstr ""
+
+#: userlogin.php:158
+msgid "Gravatars"
+msgstr ""
+
+#: userlogin.php:159
+msgid "Display Gravatar"
+msgstr ""
+
+#: userlogin.php:160
+msgid "Uses avatar settings set on the"
+msgstr ""
+
+#: userlogin.php:160
+msgid "Discussion Page"
+msgstr ""
+
+#: userlogin.php:162
+msgid "Welcome Message"
+msgstr ""
+
+#: userlogin.php:166
+msgid "Display Welcome Message"
+msgstr ""
+
+#: userlogin.php:168
+msgid "indicate current user with"
+msgstr ""
+
+#: userlogin.php:170
+msgid "Display Name"
+msgstr ""
+
+#: userlogin.php:173
+msgid "User ID"
+msgstr ""
+
+#: userlogin.php:174
+msgid "User Email"
+msgstr ""
+
+#: userlogin.php:175
+msgid ""
+"The following options default to <strong>%user</strong> if profile info is "
+"blank"
+msgstr ""
+
+#: userlogin.php:176
+msgid "User First Name"
+msgstr ""
+
+#: userlogin.php:177
+msgid "User Last Name"
+msgstr ""
+
+#: userlogin.php:178
+msgid "User Full Name"
+msgstr ""
+
+#: userlogin.php:199
+msgid "Control Panel Content Options"
+msgstr ""
+
+#: userlogin.php:201
+msgid "Control Panel Name"
+msgstr ""
+
+#: userlogin.php:204
+msgid "Control Stylesheet"
+msgstr ""
+
+#: userlogin.php:205
+msgid "Use default stylesheet"
+msgstr ""
+
+#: userlogin.php:207
+msgid "Available Links"
+msgstr ""
+
+#: userlogin.php:208
+msgid "based on user role"
+msgstr ""
+
+#: userlogin.php:209 wpul-bootstrap.php:28 wpul-nostrap.php:26
+msgid "Dashboard"
+msgstr ""
+
+#: userlogin.php:210 wpul-bootstrap.php:34 wpul-nostrap.php:29
+msgid "New Post"
+msgstr ""
+
+#: userlogin.php:211 wpul-bootstrap.php:35 wpul-nostrap.php:30
+msgid "Edit Posts"
+msgstr ""
+
+#: userlogin.php:212 wpul-bootstrap.php:40
+msgid "Manage Themes"
+msgstr ""
+
+#: userlogin.php:213 wpul-bootstrap.php:45
+msgid "Plugins"
+msgstr ""
+
+#: userlogin.php:214 wpul-nostrap.php:50
+msgid "Options"
+msgstr ""
+
+#: userlogin.php:215 wpul-bootstrap.php:50 wpul-nostrap.php:53
+msgid "Users"
+msgstr ""
+
+#: userlogin.php:216
+msgid "Your Profile"
+msgstr ""
+
+#: userlogin.php:217 wpul-bootstrap.php:62 wpul-nostrap.php:62
+#: wpul-nostrap.php:64
+msgid "Logout"
+msgstr ""
+
+#: userlogin.php:220
+msgid "Extra Optional Links"
+msgstr ""
+
+#: userlogin.php:229
+msgid "Add new line"
+msgstr ""
+
+#: userlogin.php:229
+msgid "Delete this line"
+msgstr ""
+
+#: userlogin.php:233
+msgid "Use <strong>rel=\"nofollow\"</strong> on links?"
+msgstr ""
+
+#: userlogin.php:239
+msgid "Save Changes"
+msgstr ""
+
+#: userlogin.php:260
+msgid "Edit WP-Userlogin CSS"
+msgstr ""
+
+#: userlogin.php:265
+msgid "Stylesheet Updated"
+msgstr ""
+
+#: userlogin.php:274
+msgid "Edit Stylesheet"
+msgstr ""
+
+#: userlogin.php:396
+msgid "OpenID"
+msgstr ""
+
+#: wpul-bootstrap.php:29 wpul-nostrap.php:33
+msgid "Comments"
+msgstr ""
+
+#: wpul-bootstrap.php:29 wpul-nostrap.php:33
+msgid "Comment"
+msgstr ""
+
+#: wpul-bootstrap.php:32
+msgid "Posts"
+msgstr ""
+
+#: wpul-bootstrap.php:39
+msgid "Appearance"
+msgstr ""
+
+#: wpul-bootstrap.php:41
+msgid "Install Themes"
+msgstr ""
+
+#: wpul-bootstrap.php:42
+msgid "Editor"
+msgstr ""
+
+#: wpul-bootstrap.php:46 wpul-nostrap.php:40
+msgid "Manage Plugins"
+msgstr ""
+
+#: wpul-bootstrap.php:47 wpul-nostrap.php:41
+msgid "Install Plugins"
+msgstr ""
+
+#: wpul-bootstrap.php:51
+msgid "All Users"
+msgstr ""
+
+#: wpul-bootstrap.php:52 wpul-nostrap.php:56
+msgid "Edit Your Profile"
+msgstr ""
+
+#: wpul-bootstrap.php:53 wpul-nostrap.php:57
+msgid "View Your Profile"
+msgstr ""
+
+#: wpul-bootstrap.php:56 wpul-nostrap.php:44
+msgid " Plugin "
+msgstr ""
+
+#: wpul-bootstrap.php:56 wpul-nostrap.php:44
+msgid "Updates"
+msgstr ""
+
+#: wpul-bootstrap.php:56 wpul-nostrap.php:44
+msgid "Update"
+msgstr ""
+
+#: wpul-bootstrap.php:56 wpul-nostrap.php:44
+msgid " Available"
+msgstr ""
+
+#: wpul-bootstrap.php:57 wpul-nostrap.php:47
+msgid "Core Update Available"
+msgstr ""
+
+#: wpul-bootstrap.php:58
+msgid "Settings"
+msgstr ""
+
+#: wpul-bootstrap.php:59 wpul-nostrap.php:58
+msgid "Available Tools"
+msgstr ""
+
+#: wpul-bootstrap.php:138 wpul-nostrap.php:156
+msgid "Username"
+msgstr ""
+
+#: wpul-bootstrap.php:139 wpul-nostrap.php:157
+msgid "Password"
+msgstr ""
+
+#: wpul-bootstrap.php:140 wpul-nostrap.php:158
+msgid "Remember Me"
+msgstr ""
+
+#: wpul-bootstrap.php:141 wpul-nostrap.php:159
+msgid "Log In"
+msgstr ""
+
+#: wpul-nostrap.php:37
+msgid "Manage Theme"
+msgstr ""

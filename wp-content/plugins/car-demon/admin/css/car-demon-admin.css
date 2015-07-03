@@ -1,0 +1,187 @@
+/* CSS Document */
+@media only screen and (min-width : 767px) {
+	.cd_save_settings {
+		position: fixed;
+		top: 30px;
+		right: 0;
+		background: #CBF8DD;	
+	}
+}
+.edit_option_tabs {
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border: 0;
+	padding: 10px;
+	cursor: pointer;
+}
+.edit_option_tabs:hover {
+	background: #57F797;
+}
+.edit_option_tabs_div {
+	width: 100%;
+	float: left;
+}
+.cd_admin_form_label {
+	font-size:14px;
+	padding-right:20px;
+	width:160px;
+	display: inline;
+	float:left;
+	font-weight: bold;
+}
+.cd_admin_form input {
+	width: 400px;
+}
+.cd_admin_form {
+	width: 600px;
+	background-color: #FFFFFF;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 15px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border: solid;
+	border-width: 2px;
+	border-color: #999999;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+.small_text {
+	font-size:10px;
+}
+.admin_default_description {
+	max-width:580px;height:100px;
+}
+.admin_finance_size {
+	width:50px !important;
+}
+.admin_no_price {
+	width:282px !important;
+}
+.admin_disclaimer_notice {
+	font-weight:bold;color:#FF0000;
+}
+.admin_update_options_btn {
+	margin-left: 250px; margin-top: 15px; width: 130px !important;
+}
+.admin_pages_div {
+	max-width: 500px;
+}
+.admin_add_pages_div {
+	float:left;width:300px;
+}
+.admin_add_pages_btn {
+	cursor:pointer;
+	width:90%;
+}
+.admin_add_pages_shortcodes {
+	float:left;max-width:300px;margin-left:10px;
+	margin-top:0px;
+}
+.admin_settings_updated_title {
+	color:#FF0000;
+}
+.admin_cell_providers {
+	width:250px;
+}
+.cd_admin_filter {
+	float:left;
+}
+.cd_admin_filter_label {
+	float:left;
+	padding:3px;
+}
+.cd_admin_filter_field {
+	float: left;
+}
+.custom_option_container {
+	width: 662px;
+}
+.custom_option_directions {
+	width: 562px;
+}
+.cd_select_custom_options {
+	width: 150px;
+	height: 130px !important;
+}
+.btn_move_right {
+	width: 150px;
+	height: 26px;
+}
+.cd_custom_options_box {
+	width: 400px;
+	height: 150px;
+}
+.cd_select_custom_options_container {
+	float: left;
+	padding: 3px;
+}
+.cd_custom_options_box_container {
+	float: left;
+	padding: 3px;
+}
+.vehicle_option_group {
+	width:25%;
+	min-width:250px;
+	float: left;
+}
+.vehicle_option_group_items {
+	width:50%;
+	min-width:250px;
+	height:200px;
+	float: left;
+}
+.add_vehicle_option_group {
+	color: #093;
+	cursor: pointer;
+}
+.delete_vehicle_option_group {
+	color: #900;
+	cursor: pointer;
+	float: left;
+	margin-left: 15px;
+	margin-top: 5px;
+}
+.add_vehicle_option_group_form {
+	display: none;
+}
+.wrap .tab {
+	display: none;
+	margin-left: 30px;
+}
+.open_tab {
+	cursor: pointer;
+	width: 50%;
+	max-width: 250px;
+}
+.close_tab {
+	cursor: pointer;
+	width: 30%;
+	max-width: 250px;
+	float: right;
+	color: #900;
+	font-weight: bold;
+}
+.cancel_add_group {
+	cursor: pointer;
+	width: 30%;
+	max-width: 250px;
+	float: right;
+	color: #900;
+	font-weight: bold;
+}
+.btn_update_group {
+	margin-bottom: 15px;	
+}
+.cd_admin_group {
+	margin-left: 15px;
+	border: solid 1px;
+	padding: 10px;
+	max-width: 600px;
+	margin-top: 15px;
+//	float: left;
+}

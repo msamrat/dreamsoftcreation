@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Image Slider\n"
+"POT-Creation-Date: 2014-08-31 01:21+0530\n"
+"PO-Revision-Date: 2014-09-22 13:38+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: Hardeep Asrani\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;_x;__\n"
+"Language: en\n"
+
+#: plugin-options.php:25
+msgid "Responsive Image Slider"
+msgstr "Responsive Image Slider"
+
+#: plugin-options.php:30
+msgid "Slider Speed"
+msgstr "Brzina slajdera"
+
+#: plugin-options.php:34
+msgid "Delay In Slides"
+msgstr "Odloži za slajdove"
+
+#: plugin-options.php:38
+msgid "Keyboard Navigation"
+msgstr "Navigacija tastaturom"
+
+#: plugin-options.php:42 Plugins/plugin-options.php:52 plugin-options.php:62
+msgid "Yes"
+msgstr "Da"
+
+#: plugin-options.php:44 Plugins/plugin-options.php:54 plugin-options.php:64
+msgid "No"
+msgstr "Ne"
+
+#: plugin-options.php:48
+msgid "Display Navigation"
+msgstr "Prikaži navigaciju"
+
+#: plugin-options.php:58
+msgid "Responsive Design"
+msgstr "Responsivni dizajn"
+
+#: post-type.php:7
+msgid "Slides"
+msgstr "Slajdovi"
+
+#: post-type.php:8
+msgid "Slide"
+msgstr "Slajd"
+
+#: post-type.php:9
+msgid "Image Slides"
+msgstr "Slika slajdova"
+
+#: post-type.php:10
+msgid "Parent Item:"
+msgstr "Nadređena stavka:"
+
+#: post-type.php:11
+msgid "All Slides"
+msgstr "Svi slajdovi"
+
+#: post-type.php:12
+msgid "View"
+msgstr "Pregled"
+
+#: post-type.php:13
+msgid "Add New Slide"
+msgstr "Dodaj novi slajd"
+
+#: post-type.php:14
+msgid "Add Slide"
+msgstr "Dodaj slajd"
+
+#: post-type.php:15
+msgid "Edit Slide"
+msgstr "Uredi slajd"
+
+#: post-type.php:16
+msgid "Update Slide"
+msgstr "Ažuriraj slajd"
+
+#: post-type.php:17
+msgid "Search Slide"
+msgstr "Pretraži slajd"
+
+#: post-type.php:18
+msgid "Not found"
+msgstr "Nije pronađen"
+
+#: post-type.php:19
+msgid "Not found in Trash"
+msgstr "Nije pronađen u korpi za otpatke"
+
+#: post-type.php:22
+msgid "Unslider"
+msgstr "Unslider"
+
+#: post-type.php:23
+msgid "Image slides"
+msgstr "Slika slajdova"
+
+#: post-type.php:53
+msgid "Slide ID"
+msgstr "ID slajda"
+
+#: post-type.php:54
+msgid "Thumbnail"
+msgstr "Sličica"
+
+#: post-type.php:55 Plugins/post-type.php:76
+msgid "Edit"
+msgstr "Uredi"

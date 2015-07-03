@@ -1,0 +1,367 @@
+
+<!doctype html>  
+
+<!--[if IEMobile 7 ]> <html lang="en-US"class="no-js iem7"> <![endif]-->
+<!--[if lt IE 7 ]> <html lang="en-US" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en-US" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-US" class="no-js ie8"> <![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html lang="en-US" class="no-js"><!--<![endif]-->
+	
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>HAIR TODAY | Just another WordPress site</title>	
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  		<link rel="pingback" href="http://progfeel.in/hairtoday/xmlrpc.php">
+
+		<!-- wordpress head functions -->
+				<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/progfeel.in\/hairtoday\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bootstrap-css'  href='http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/library/css/bootstrap.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbs-style-css'  href='http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/style.css?ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://progfeel.in/hairtoday/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://progfeel.in/hairtoday/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/library/js/bootstrap.min.js?ver=1.2'></script>
+<script type='text/javascript' src='http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/library/js/scripts.js?ver=1.2'></script>
+<script type='text/javascript' src='http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/library/js/modernizr.full.min.js?ver=1.2'></script>
+<link rel='canonical' href='http://progfeel.in/hairtoday/' />
+<link rel='shortlink' href='http://progfeel.in/hairtoday/' />
+  <style type="text/css">
+    .screen-reader-response {
+      display: none;
+    }
+  </style>
+  		<!-- end of wordpress head -->
+		<!-- IE8 fallback moved below head to work properly. Added respond as well. Tested to work. -->
+			<!-- media-queries.js (fallback) -->
+		<!--[if lt IE 9]>
+			<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>			
+		<![endif]-->
+
+		<!-- html5.js -->
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->	
+		
+			<!-- respond.js -->
+		<!--[if lt IE 9]>
+		          <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+		<![endif]-->	
+<link href="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/newstyle.css" media="all" type="text/css" rel="stylesheet">
+
+<link href="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/media.css" media="all" type="text/css" rel="stylesheet">
+
+<style type="text/css">
+.bannerline1bg {
+background-image: url("http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/banner_line_1.png");
+background-repeat: no-repeat;
+background-position: top left;
+background-size: 100% 100%;
+height: 160px;
+padding-left: 25px;
+width: 100%;
+}
+.crosslinebg {
+	background-image:url("http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/cross_line_bg.png");
+		background-repeat:repeat-x;
+	background-position:top ;
+	height:191px;
+}
+.gardenbg {
+	background-image:url("http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/garden_bg.jpg");
+		background-repeat:no-repeat;
+	background-position:bottom;
+ background-size: 100% auto;
+    height: 500px;
+}
+#map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+</style>
+
+
+	</head>
+	
+	<body class="home page page-id-4 page-template page-template-page-homepage page-template-page-homepage-php">
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+    <script>
+function initialize() {
+  var bryantPark = new google.maps.LatLng(40.174846, -75.66277);
+  var panoramaOptions = {
+    position: bryantPark,
+    pov: {
+      heading: 165,
+      pitch: 0
+    },
+    zoom: 1
+  };
+  var myPano = new google.maps.StreetViewPanorama(
+      document.getElementById('map-canvas'),
+      panoramaOptions);
+  myPano.setVisible(true);
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+		<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+		<header role="banner">
+			<div class="col-sm-12 whitebg">
+			<div class="col-sm-7 tophead">	<h4>2221 Pottstown Pike, Rt 100 &amp; Rt 23, Pottstown Pa 19465</h4></div>
+			<div class="col-sm-3 greenbg"> <h2 class="whitetext">✆&nbsp; 610.469.6194</h2></div>
+			<div class="col-sm-1 topsociel">	
+<div class="col-sm-2 soc"><a href="#"><img src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/facebook.png" width="24" height="24" border="0"></a></div>
+<div class="col-sm-2 soc"><a href="#"><img src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/twitter.png" width="24" height="24" border="0"></a></div>						
+<div class="col-sm-2 soc"><a href="#"><img src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/linkedin.png" width="24" height="24" border="0"></a></div>	
+</div>
+			</div>
+			<div class="col-sm-12 headerbg">
+			<div class="col-sm-8 hlogo"><a href="http://progfeel.in/hairtoday"><img class="img-responsive" src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/logo.png" alt="HAIR TODAY" width="250" height="140" border="0"></a></div>
+			<div class="col-sm-4 htext"><div class="whitetransparentbg"> <h2 align="center">A Full Service Family Salon</h2></div></div>
+			
+			</div>	
+<div class="yellowbg">
+			<div class="navbar mainmenu">
+				<div class="col-sm-12">
+          
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+
+						<!-- <a class="navbar-brand" title="Just another WordPress site" href="http://progfeel.in/hairtoday">HAIR TODAY</a> -->
+					</div>
+					<div class="col-sm-9 topmenu">
+					<div class="collapse navbar-collapse navbar-responsive-collapse">
+						<ul id="menu-header" class="nav navbar-nav"><li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4 current_page_item active"><h3><a class="blacklink"  href="http://progfeel.in/hairtoday/">home</a></h3></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page"><h3><a class="blacklink"  href="http://progfeel.in/hairtoday/prices-and-specials/">Prices and Specials</a></h3></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page"><h3><a class="blacklink"  href="http://progfeel.in/hairtoday/products/">Products</a></h3></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page"><h3><a class="blacklink"  href="http://progfeel.in/hairtoday/contacts/">Contact</a></h3></li>
+</ul>
+					</div>
+					</div>
+<div class="col-sm-3 likefb"><div class="col-lg-8 fbli"><h4>LIKE US ON FACEBOOK!</h4></div><div class="fb-like col-lg-4" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div></div>
+
+				</div> <!-- end .container -->
+			</div> <!-- end .navbar -->
+		</div>
+		</header> <!-- end header -->
+		
+       		
+
+			<div class="homebannerbg">
+			<div id="content" class="clearfix">
+			
+				<div id="main" class="col-sm-12 clearfix" role="main">
+
+										
+					<article id="post-4" class="clearfix post-4 page type-page status-publish hentry" role="article">
+					
+						<header>
+
+							
+							
+				
+						
+							
+						
+						</header>
+						
+						<section class="row post_content">
+						
+							<div class="col-sm-12 col-xs-12 leftright">
+							
+							<div class="col-sm-4 col-lg-5 col-xs-12">&nbsp;
+</div>
+<div class="col-sm-8 col-sm-7 col-xs-12 imagetext">
+<div class="col-sm-12 col-xs-12 imgtabone">
+<div class="col-sm-1 col-xs-12">&nbsp;</div>
+<div class="col-sm-12 col-lg-10 col-xs-12 leftright">
+<div class="bannerline1bg" id ="bannerline1bg"><div class="col-sm-9 col-xs-12"><h2>WORKING HOURS</h2></div><div class="col-sm-9 col-xs-12 clockbg"><h4>Monday - Closed <br>
+                    Tuesday - Thursday 9:00 AM to 8:00 PM <br>
+                    Friday 9:00 AM to 6:00 PM <br>
+                    Saturday 8:00 AM to 3:00 PM <br>
+                    Sunday - Closed</h4></div> </div> 
+</div>
+</div>
+
+<div class="col-sm-9 col-xs-12 imgtabone">
+<div class="bannerline2bg"><div class="col-sm-9 col-xs-12"><h2>PROUDLY SERVING</h2></div><div class="col-sm-9 col-xs-12 chairbg"><h4>Perms, Nails, Waxing, Facials,<br>Makeup, Massage</h4></div></div>
+</div>
+
+</div>	
+																
+							</div>
+							
+																				
+						</section> <!-- end article header -->
+						
+						<footer>
+			
+							<p class="clearfix"></p>
+							
+						</footer> <!-- end article footer -->
+					
+					</article> <!-- end article -->
+					
+										
+						
+					
+								
+				</div> <!-- end #main -->
+    
+				    
+			</div> <!-- end #content --></div></div>
+<div class="crosslinebg">
+<div class="col-sm-12">
+<div class="col-sm-4">&nbsp;</div>
+<div class="col-sm-4 textalign"><h1 class="greenbottomline" align="center">HAIR TODAY</h1></div>
+<div class="col-sm-4">&nbsp;</div>
+</div>
+<div class="col-sm-12 htext"><h3 align="center"><strong>Located South of Pottstown on Rt 100. We serve men, women and children in our family friendly salon.</strong></h3></div></div>
+
+<div class="gardenbg">
+<div class="col-sm-12 croscontent"><h4 align="center"><img src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/testimonail_start.png" width="28" height="20">We consider each member of our staff a partner in our salon. We are teammates, working for ourselves and each other. We promise customer satisfaction, by first listening and then accommodating. With our collective creativity and talents, we pursue excellence in our community and in our industry.</h4>
+          <h4>&nbsp;</h4>
+          <h4 align="center">We consider every visit by a customer, be they new or a weekly regular, as an opportunity to renew, or create, a lasting friendship. Our greatest goal is accomplished when you go home from a visit to our shop, look in the mirror and smile!</h4>
+          <h4>&nbsp;</h4>
+          <h4 align="center">If you are a long time customer, as always, we thank you for your business, support and friendship and for visiting our new web site. If we have not yet had the pleasure of serving you, we invite you to come in and see for yourself why most of our customers become life long customers.<img src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/testimonail_end.png" width="28" height="20"></h4>
+<h4 align="center" class="redtext">CHRISSY &amp; CREW</h4>
+<div class="col-sm-12 blankhight">&nbsp;</div>
+
+</div></div>
+<div class="greenlinebg"><div class="col-sm-12"><div class="col-sm-4">&nbsp;</div><div class="col-sm-4 textalign "><h1 align="center" class="whitetext greenbottomline">PRODUCTS</h1></div><div class="col-sm-4">&nbsp;</div></div>
+<div class="col-sm-12 lefright"><div class="col-sm-2 whitebg">
+<div class="class=col-sm-12">&nbsp;</div>
+<div class="class=col-sm-12"><div class="greentitlebg"><h4 align="center"><span class="whitetext"><strong>CIRCADIA</strong></span></h4></div></div>
+<div class="class=col-sm-12 imgalign"><a href="#"><img class="img-responsive" src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/cricadia_product.jpg" width="225" height="230" border="0"></a></div>
+
+</div>
+<div class="col-sm-2 whitebg">
+<div class="class=col-sm-12">&nbsp;</div>
+<div class="class=col-sm-12"><div class="greentitlebg"><h4 align="center"><span class="whitetext"><strong>EUFORA</strong></span></h4></div></div>
+<div class="class=col-sm-12 imgalign"><a href="#"><img class="img-responsive" src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/eufora_product.jpg" width="225" height="230" border="0"></a></div>
+
+</div>
+
+<div class="col-sm-2 whitebg">
+<div class="class=col-sm-12">&nbsp;</div>
+<div class="class=col-sm-12"><div class="greentitlebg"><h4 align="center"><span class="whitetext"><strong>CAZANNE</strong></span></h4></div></div>
+<div class="class=col-sm-12 imgalign"><a href="#"><img class="img-responsive" src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/cazanne_product.jpg" width="225" height="230" border="0"></a></div>
+
+</div>
+<div class="col-sm-2 whitebg">
+<div class="class=col-sm-12">&nbsp;</div>
+<div class="class=col-sm-12"><div class="greentitlebg"><h4 align="center"><span class="whitetext"><strong>MATRIX</strong></span></h4></div></div>
+<div class="class=col-sm-12 imgalign"><a href="#"><img class="img-responsive" src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/matrix_product.jpg" width="225" height="230" border="0"></a></div>
+
+</div>
+<div class="col-sm-2 whitebg">
+<div class="class=col-sm-12">&nbsp;</div>
+<div class="class=col-sm-12"><div class="greentitlebg"><h4 align="center"><span class="whitetext"><strong>NIOXIN HAIR</strong></span></h4></div></div>
+<div class="class=col-sm-12 imgalign"><a href="#"><img class="img-responsive" src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/nioxin_product.jpg" width="225" height="230" border="0"></a></div>
+
+</div>
+
+
+</div>
+</div>
+
+	</div> <!-- end #container --><div class="bfooter"><h3 align="center"><strong>BE SURE TO LOOK AT OUR SPECIALS!</strong></h3></div>			
+<footer role="contentinfo">
+			
+				<div id="inner-footer" class="clearfix yellowbg">
+		          <hr />
+		          <div id="widget-footer" class="clearfix col-sm-12">
+		            <div id="text-2" class="widget col-sm-3 widget_text">			<div class="textwidget"><div class="col-sm-12">
+<div class="col-sm-2 imgone"><img class="img-responsive" src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/offer_icon.png" width="48" height="48"></div>
+<div class="col-sm-9 imgname"><h4><strong>PRODUCT TO OFFER</strong></h4></div><br>
+<img class="img-responsive" src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/eufora_logo.png" width="200" height="65">
+</div></div>
+		</div>		            <div id="text-3" class="widget col-sm-3 widget_text">			<div class="textwidget"><div class="col-sm-12">
+<div class="col-sm-2 imgone"><img class="img-responsive" src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/contact_icon.png" width="48" height="48"></div>
+<div class="col-sm-9 imgname"><h4><strong>CONTACT US</strong></h4></div>
+<div class="col-sm-2 imgone">&nbsp;</div><div class="col-sm-9 imgname"><h4>2221 Pottstown Pike<br>
+              Rt 100 &amp; Rt 23<br>
+              Pottstown Pa 19465</h4></div>
+</div></div>
+		</div>		            <div id="text-4" class="widget col-sm-3 widget_text">			<div class="textwidget"><div class="col-sm-12">
+<div class="col-sm-2 imgone"><img class="img-responsive" src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/phone_icon.png" width="48" height="48"></div>
+<div class="col-sm-9 imgname"><h4><strong>PHONE</strong></h4></div>
+<div class="col-sm-9 imgname "><br><h4>&nbsp;610-469-6194</h4></div>
+</div>
+
+<div class="col-sm-12">
+<div class="col-sm-2 imgone "><br><img class="img-responsive" src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/locaion_icon.png" width="48" height="48"></div>
+<div class="col-sm-9 imgname"><br><h4><strong>DIRECTION</strong></h4></div>
+<div class="col-sm-9 imgname ">&nbsp;<a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=2221+Pottstown+Pike,+Pottstown,+PA&amp;aq=1&amp;sll=37.0625,-95.677068&amp;sspn=43.713406,89.736328&amp;vpsrc=6&amp;ie=UTF8&amp;hq=&amp;hnear=2221+Pottstown+Pike,+Pottstown,+Pennsylvania+19465&amp;ll=40.173941,-75.663342&amp;spn=0.002607,0.005477&amp;t=m&amp;z=14&amp;layer=c&amp;cbll=40.173926,-75.662704&amp;panoid=_TsjhM3xldBAdPxGPWfbMQ&amp;cbp=12,216.64,,0,6.61" target="_blank" class="redlink">
+                                 &nbsp;<h4 class="underline">Get Direction</h4>
+                                 </a></div>
+
+</div></div>
+		</div>			    <div id="text-5" class="widget col-sm-3 widget_text">			<div class="textwidget"><div class="col-sm-12 lastwidget">
+<div class="col-sm-2 imgone"><img class="img-responsive" src="http://progfeel.in/hairtoday/wp-content/themes/wordpress-bootstrap-master/images/clock_icon.png" width="48" height="48"></div>
+<div class="col-sm-9 imgname"><h4><strong>WORKING HOURS</strong></h4></div>
+<div class="col-sm-2 imgone">&nbsp;</div>
+<div class="col-sm-9 imgname lastname"><h4>Monday - Closed <br>
+              Tuesday - Thursday 9:00 AM to 8:00 PM <br>
+              Friday 9:00 AM to 6:00 PM <br>
+              Saturday 8:00 AM to 3:00 PM <br>
+              Sunday - Closed</h4></div>
+</div></div>
+		</div>		          </div>
+					
+					<nav class="clearfix">
+											</nav>
+					
+									
+				</div> <!-- end #inner-footer -->
+				
+			</footer> <!-- end footer -->
+		
+	
+				
+		<!--[if lt IE 7 ]>
+  			<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+  			<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+		<![endif]-->
+		
+		<script type='text/javascript' src='http://progfeel.in/hairtoday/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/progfeel.in\/hairtoday\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://progfeel.in/hairtoday/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://progfeel.in/hairtoday/wp-content/plugins/bootstrap-for-contact-form-7/assets/scripts.min.js?ver=1.1.0'></script>
+
+	</body>
+
+</html>
